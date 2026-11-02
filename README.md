@@ -1,6 +1,4 @@
-# Support the repository
 
-If the collection helps you, **Star the repository ⭐** to bookmark it and support its visibility. Fork it if you want your own copy to customise. Use GitHub’s **Watch** settings to select notifications; a fork does not automatically receive upstream changes.
 
 <div align="center">
 
@@ -88,6 +86,8 @@ These are suggested starting points, not prerequisites for every document. Choos
 For tool behaviour, service limits and version-specific details, check the relevant official documentation alongside the resource you are reading.
 
 ## Support the repository
+
+If the collection helps you, **Star the repository ⭐** to bookmark it and support its visibility. Fork it if you want your own copy to customise. Use GitHub’s **Watch** settings to select notifications; a fork does not automatically receive upstream changes.
 
 Found an unclear explanation, a broken link, or an outdated example? Open an issue with the document name, affected section and a clear description. Include a public technical source when suggesting a correction. Contributions should respect source authors and exclude credentials or private operational information.
 
