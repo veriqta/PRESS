@@ -12,6 +12,8 @@
 
 </div>
 
+A VERIQTA resource. **[Official VERIQTA website](https://veriqta.com/)** — engineering education, technical publishing and professional assessment.
+
 VERIQTA Press is the publishing home for VERIQTA’s engineering books, notebooks and learning resources. This repository brings together its free engineering PDFs and supporting material across Linux, programming, networking, cloud, DevOps, SRE, security, platform engineering and production systems.
 
 Whether you are learning your first Linux commands, strengthening your cloud skills or exploring advanced engineering decisions, you can choose a subject and find resources relevant to your goals. Read to understand the concepts, connect them to practical work and develop explanations you can defend with evidence.
