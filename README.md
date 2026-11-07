@@ -2,13 +2,13 @@
 
 <table width="100%">
 <tr>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-001"><img src="assets/pdf-covers/001.jpg" alt="Prometheus and Grafana Crash Course" title="Prometheus and Grafana Crash Course" width="100%" /></a><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-002"><img src="assets/pdf-covers/002.jpg" alt="First 90 Days as an SRE" title="First 90 Days as an SRE" width="100%" /></a><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-003"><img src="assets/pdf-covers/003.jpg" alt="Build an AI Linux Troubleshooting Assistant That Explains Real Command Output" title="Build an AI Linux Troubleshooting Assistant That Explains Real Command Output" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/001.jpg" alt="Prometheus and Grafana Crash Course" title="Prometheus and Grafana Crash Course" width="100%" /><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/002.jpg" alt="First 90 Days as an SRE" title="First 90 Days as an SRE" width="100%" /><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/003.jpg" alt="Build an AI Linux Troubleshooting Assistant That Explains Real Command Output" title="Build an AI Linux Troubleshooting Assistant That Explains Real Command Output" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/20%20Kubernetes%20Production%20Projects.pdf"><img src="assets/pdf-covers/004.jpg" alt="20 Kubernetes Production Projects" title="20 Kubernetes Production Projects" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-005"><img src="assets/pdf-covers/005.jpg" alt="Redis Under the Hood" title="Redis Under the Hood" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/005.jpg" alt="Redis Under the Hood" title="Redis Under the Hood" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="00.%20Linux/50%20Linux%20Interview%20Scenarios.pdf"><img src="assets/pdf-covers/006.jpg" alt="50 Linux Interview Scenarios" title="50 Linux Interview Scenarios" width="100%" /></a></td>
 </tr>
 <tr>
@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/The%20Kubernetes%20Handbook.pdf"><img src="assets/pdf-covers/010.jpg" alt="The Kubernetes Handbook" title="The Kubernetes Handbook" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-011"><img src="assets/pdf-covers/011.jpg" alt="The DevOps Command Cheat Sheet: 100 Commands You’ll Actually Use" title="The DevOps Command Cheat Sheet: 100 Commands You’ll Actually Use" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/011.jpg" alt="The DevOps Command Cheat Sheet: 100 Commands You’ll Actually Use" title="The DevOps Command Cheat Sheet: 100 Commands You’ll Actually Use" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="02.%20Networking/How%20to%20Read%20Network%20Traffic%20Like%20a%20Detective.pdf"><img src="assets/pdf-covers/012.jpg" alt="How to Read Network Traffic Like a Detective" title="How to Read Network Traffic Like a Detective" width="100%" /></a></td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="27.%20Career%2C%20Interviews%20%26%20Certifications/DEVOPS%20ROADMAP%20FOR%20MID-LEVEL%20TO%20SENIOR.pdf"><img src="assets/pdf-covers/022.jpg" alt="DEVOPS ROADMAP FOR MID-LEVEL TO SENIOR" title="DEVOPS ROADMAP FOR MID-LEVEL TO SENIOR" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-023"><img src="assets/pdf-covers/023.jpg" alt="From Localhost to Production" title="From Localhost to Production" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/023.jpg" alt="From Localhost to Production" title="From Localhost to Production" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="07.%20CI-CD%20%26%20GitOps/The%20Advanced%20Jenkins%20Handbook%2030%20Production%20Pipelines%2C%20Security%20Patterns%2C%20and%20Troubleshooting%20Scenarios.pdf"><img src="assets/pdf-covers/024.jpg" alt="The Advanced Jenkins Handbook 30 Production Pipelines, Security Patterns, and Troubleshooting Scenarios" title="The Advanced Jenkins Handbook 30 Production Pipelines, Security Patterns, and Troubleshooting Scenarios" width="100%" /></a></td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="11.%20Databases/50%20Redis%20Interview%20Scenarios%20Questions%2C%20Answers%2C%20and%20Production%20Troubleshooting.pdf"><img src="assets/pdf-covers/037.jpg" alt="50 Redis Interview Scenarios Questions, Answers, and Production Troubleshooting" title="50 Redis Interview Scenarios Questions, Answers, and Production Troubleshooting" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="09.%20AWS/Build%20a%20Three-Tier%20App%20on%20AWS%20The%20Project%20That%20Gets%20You%20Hired.pdf"><img src="assets/pdf-covers/038.jpg" alt="Build a Three-Tier App on AWS The Project That Gets You Hired" title="Build a Three-Tier App on AWS The Project That Gets You Hired" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-039"><img src="assets/pdf-covers/039.jpg" alt="The Cron Job Cookbook: 30 Recipes You’ll Actually Use" title="The Cron Job Cookbook: 30 Recipes You’ll Actually Use" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/039.jpg" alt="The Cron Job Cookbook: 30 Recipes You’ll Actually Use" title="The Cron Job Cookbook: 30 Recipes You’ll Actually Use" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="16.%20Troubleshooting/Reading%20Logs%20Like%20a%20Detective%20A%20Beginner%27s%20Playbook.pdf"><img src="assets/pdf-covers/040.jpg" alt="Reading Logs Like a Detective A Beginner&#x27;s Playbook" title="Reading Logs Like a Detective A Beginner&#x27;s Playbook" width="100%" /></a></td>
@@ -72,7 +72,7 @@
 <td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/ArgoCD%20for%20Beginners%20Your%20First%20GitOps%20Deployment.pdf"><img src="assets/pdf-covers/042.jpg" alt="ArgoCD for Beginners Your First GitOps Deployment" title="ArgoCD for Beginners Your First GitOps Deployment" width="100%" /></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-043"><img src="assets/pdf-covers/043.jpg" alt="Why Your DevOps Interviews Keep Failing (And How to Fix It)" title="Why Your DevOps Interviews Keep Failing (And How to Fix It)" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/043.jpg" alt="Why Your DevOps Interviews Keep Failing (And How to Fix It)" title="Why Your DevOps Interviews Keep Failing (And How to Fix It)" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="16.%20Troubleshooting/The%20Beginner%27s%20Troubleshooting%20Playbook%20How%20to%20Diagnose%20Real%20DevOps%20Failures.pdf"><img src="assets/pdf-covers/044.jpg" alt="The Beginner&#x27;s Troubleshooting Playbook How to Diagnose Real DevOps Failures" title="The Beginner&#x27;s Troubleshooting Playbook How to Diagnose Real DevOps Failures" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="27.%20Career%2C%20Interviews%20%26%20Certifications/What%20Senior%20DevOps%20Interviews%20Actually%20Test%2040%20Real%20Scenarios.pdf"><img src="assets/pdf-covers/045.jpg" alt="What Senior DevOps Interviews Actually Test 40 Real Scenarios" title="What Senior DevOps Interviews Actually Test 40 Real Scenarios" width="100%" /></a></td>
 </tr>
@@ -129,7 +129,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="05.%20Docker%20%26%20Containers/DOCKER%20CHEAT%20SHEETS.pdf"><img src="assets/pdf-covers/076.jpg" alt="DOCKER CHEAT SHEETS" title="DOCKER CHEAT SHEETS" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/KUBERNETES%20TOOLKIT.pdf"><img src="assets/pdf-covers/077.jpg" alt="KUBERNETES TOOLKIT" title="KUBERNETES TOOLKIT" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-078"><img src="assets/pdf-covers/078.jpg" alt="The Enterprise Incident Response Black Book" title="The Enterprise Incident Response Black Book" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/078.jpg" alt="The Enterprise Incident Response Black Book" title="The Enterprise Incident Response Black Book" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="01.%20Programming%20%26%20Development/PYTHON%20AUTOMATION%20WITH%20AI.pdf"><img src="assets/pdf-covers/079.jpg" alt="PYTHON AUTOMATION WITH AI" title="PYTHON AUTOMATION WITH AI" width="100%" /></a></td>
@@ -204,7 +204,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="10.%20Azure%20%26%20Google%20Cloud/AZURE%20DEVOPS%20POCKET%20GUIDE.pdf"><img src="assets/pdf-covers/121.jpg" alt="AZURE DEVOPS POCKET GUIDE" title="AZURE DEVOPS POCKET GUIDE" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="10.%20Azure%20%26%20Google%20Cloud/GCP%20FOR%20DEVOPS%20ENGINEER.pdf"><img src="assets/pdf-covers/122.jpg" alt="GCP FOR DEVOPS ENGINEER" title="GCP FOR DEVOPS ENGINEER" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-123"><img src="assets/pdf-covers/123.jpg" alt="CI/CD Operations Manual" title="CI/CD Operations Manual" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/123.jpg" alt="CI/CD Operations Manual" title="CI/CD Operations Manual" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="01.%20Programming%20%26%20Development/PYTHON%20AUTOMATION%20POCKET%20GUIDE.pdf"><img src="assets/pdf-covers/124.jpg" alt="PYTHON AUTOMATION POCKET GUIDE" title="PYTHON AUTOMATION POCKET GUIDE" width="100%" /></a></td>
@@ -214,7 +214,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/KUBERNETES%20ADMINISTRATOR%27S%20SURVIVAL%20GUIDE.pdf"><img src="assets/pdf-covers/127.jpg" alt="KUBERNETES ADMINISTRATOR&#x27;S SURVIVAL GUIDE" title="KUBERNETES ADMINISTRATOR&#x27;S SURVIVAL GUIDE" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="02.%20Networking/NETWORK%20ENGINEERING%20GUIDEBOOK.pdf"><img src="assets/pdf-covers/128.jpg" alt="NETWORK ENGINEERING GUIDEBOOK" title="NETWORK ENGINEERING GUIDEBOOK" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-129"><img src="assets/pdf-covers/129.jpg" alt="DevOps Engineer’s Companion: Everyday DevOps Knowledge" title="DevOps Engineer’s Companion: Everyday DevOps Knowledge" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/129.jpg" alt="DevOps Engineer’s Companion: Everyday DevOps Knowledge" title="DevOps Engineer’s Companion: Everyday DevOps Knowledge" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="15.%20Incident%20Response/INCIDENT%20RESPONSE%20PLAYBOOK.pdf"><img src="assets/pdf-covers/130.jpg" alt="INCIDENT RESPONSE PLAYBOOK" title="INCIDENT RESPONSE PLAYBOOK" width="100%" /></a></td>
@@ -322,7 +322,7 @@
 <td align="center" valign="top" width="33%"><a href="12.%20Infrastructure%20Engineering/INFRASTRUCTURE%20ENGINEERS%20DAILY%20OPERATIONS.pdf"><img src="assets/pdf-covers/192.jpg" alt="INFRASTRUCTURE ENGINEERS DAILY OPERATIONS" title="INFRASTRUCTURE ENGINEERS DAILY OPERATIONS" width="100%" /></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-193"><img src="assets/pdf-covers/193.jpg" alt="Packer for Cloud Engineers" title="Packer for Cloud Engineers" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/193.jpg" alt="Packer for Cloud Engineers" title="Packer for Cloud Engineers" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="09.%20AWS/AWS%20SAA-C03%20PROJECTS.pdf"><img src="assets/pdf-covers/194.jpg" alt="AWS SAA-C03 PROJECTS" title="AWS SAA-C03 PROJECTS" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/HELM%20PRODUCTION%20HANDBOOK.pdf"><img src="assets/pdf-covers/195.jpg" alt="HELM PRODUCTION HANDBOOK" title="HELM PRODUCTION HANDBOOK" width="100%" /></a></td>
 </tr>
@@ -428,7 +428,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="16.%20Troubleshooting/DEVOPS%20TROUBLESHOOTING%20HANDBOOK.pdf"><img src="assets/pdf-covers/256.jpg" alt="DEVOPS TROUBLESHOOTING HANDBOOK" title="DEVOPS TROUBLESHOOTING HANDBOOK" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-257"><img src="assets/pdf-covers/257.jpg" alt="AWS Solutions Architect Interview Handbook" title="AWS Solutions Architect Interview Handbook" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/257.jpg" alt="AWS Solutions Architect Interview Handbook" title="AWS Solutions Architect Interview Handbook" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="09.%20AWS/AWS%20SOLUTIONS%20ARCHITECT%20PRODUCTION%20HANDBOOK.pdf"><img src="assets/pdf-covers/258.jpg" alt="AWS SOLUTIONS ARCHITECT PRODUCTION HANDBOOK" title="AWS SOLUTIONS ARCHITECT PRODUCTION HANDBOOK" width="100%" /></a></td>
 </tr>
 <tr>
@@ -494,7 +494,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="15.%20Incident%20Response/01.%20The%20Kubernetes%20Cluster%20That%20Went%20Down%20at%202%20AM%20-%20VERIQTA%20series.pdf"><img src="assets/pdf-covers/296.jpg" alt="01. The Kubernetes Cluster That Went Down at 2 AM - VERIQTA series" title="01. The Kubernetes Cluster That Went Down at 2 AM - VERIQTA series" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="00.%20Linux/LINUX%20PRODUCTION%20HANDBOOK.pdf"><img src="assets/pdf-covers/297.jpg" alt="LINUX PRODUCTION HANDBOOK" title="LINUX PRODUCTION HANDBOOK" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-298"><img src="assets/pdf-covers/298.jpg" alt="Platform Engineering Handbook" title="Platform Engineering Handbook" width="100%" /></a><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/298.jpg" alt="Platform Engineering Handbook" title="Platform Engineering Handbook" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="09.%20AWS/01.%20AWS%20Interview%20Handbook.pdf"><img src="assets/pdf-covers/299.jpg" alt="01. AWS Interview Handbook" title="01. AWS Interview Handbook" width="100%" /></a></td>
@@ -512,12 +512,12 @@
 <td align="center" valign="top" width="33%"><a href="15.%20Incident%20Response/06.%20The%20Container%20That%20Kept%20Crashing%20-%20VERIQTA%20Series.pdf"><img src="assets/pdf-covers/extra-04.jpg" alt="06. The Container That Kept Crashing - VERIQTA Series" title="06. The Container That Kept Crashing - VERIQTA Series" width="100%" /></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-294"><img src="assets/pdf-covers/294.jpg" alt="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" title="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" width="100%" /></a><br /><strong>Reference image — no PDF confirmed</strong></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-301"><img src="assets/pdf-covers/301.jpg" alt="DevOps Engineer Roadmap" title="DevOps Engineer Roadmap" width="100%" /></a><br /><strong>Reference image — no PDF confirmed</strong></td>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-302"><img src="assets/pdf-covers/302.jpg" alt="50 Most Used Linux Commands for DevOps / Cloud Engineers" title="50 Most Used Linux Commands for DevOps / Cloud Engineers" width="100%" /></a><br /><strong>Reference image — no PDF confirmed</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/294.jpg" alt="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" title="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/301.jpg" alt="DevOps Engineer Roadmap" title="DevOps Engineer Roadmap" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/302.jpg" alt="50 Most Used Linux Commands for DevOps / Cloud Engineers" title="50 Most Used Linux Commands for DevOps / Cloud Engineers" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="docs/missing-pdfs.md#item-306"><img src="assets/pdf-covers/306.jpg" alt="Learn Linux from Beginner to Advanced — Part 1" title="Learn Linux from Beginner to Advanced — Part 1" width="100%" /></a><br /><strong>Reference image — no PDF confirmed</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/306.jpg" alt="Learn Linux from Beginner to Advanced — Part 1" title="Learn Linux from Beginner to Advanced — Part 1" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
 <td></td>
 <td></td>
 </tr>
