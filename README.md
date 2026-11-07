@@ -1,5 +1,7 @@
 <div align="center">
 
+**[Visit the official VERIQTA website — veriqta.com](https://veriqta.com/)**
+
 ![VERIQTA Press](https://github.com/veriqta/veriqta/blob/main/veriqta-press-banner.svg)
 
 # VERIQTA Press
@@ -20,14 +22,9 @@ Published by [VERIQTA](https://veriqta.com/), covering engineering education, te
 
 1. Choose a topic below, or open the [complete catalog](CATALOG.md) and use **Ctrl+F** / **Command+F** to search titles.
 2. Follow a PDF link to preview it on GitHub. If a preview is unavailable, use the file's download control.
-3. Download the PDF to read locally. For an offline copy of the entire collection, use GitHub's **Code → Download ZIP**, or clone it:
+3. Download an individual publication for your personal, non-commercial study, as permitted by the [licence](LICENSE).
 
-```sh
-git clone https://github.com/veriqta/VERIQTA-PRESS.git
-cd VERIQTA-PRESS
-```
-
-The collection contains large binary files; cloning or downloading the whole repository takes more space and time than saving an individual PDF. No software installation or build step is needed to read the documents.
+**Free to read does not mean free to redistribute.** Share links to the official repository or publications. Rehosting, redistribution, resale, rebranding and other restricted uses require prior written permission from VERIQTA, except where applicable law permits them. See [LICENSE](LICENSE) for the full terms and permission contact.
 
 ## Browse topics
 
@@ -108,9 +105,9 @@ These are suggested routes; choose documents that fit your goals and experience.
 
 Found a broken link, outdated example or unclear explanation? [Open an issue](https://github.com/veriqta/VERIQTA-PRESS/issues) with the document name, affected section and suggested correction. Include a public technical source where relevant.
 
-For a contribution, fork the repository, create a branch, place the document in the closest topic folder, and add links to that folder's README and the complete catalog. Check that relative links open correctly. Preserve existing PDFs when reorganizing; keep credentials, private data and generated artifacts out of contributions. Respect authorship and applicable licensing.
+To propose a new publication or a change to the collection, open an issue first. Only submit material you own or have permission to contribute. Contributions must respect the [licence](LICENSE); public access does not grant permission to republish the collection. Keep credentials and private data out of issues and submissions.
 
-Star the repository to bookmark it. Use GitHub's Watch settings to choose update notifications; forks do not automatically receive upstream changes.
+Star the repository to bookmark it, and use GitHub's Watch settings to choose update notifications.
 
 ## About VERIQTA
 
@@ -118,4 +115,4 @@ VERIQTA Press brings VERIQTA's engineering publications and learning resources t
 
 ## Licence and attribution
 
-See [LICENSE](LICENSE) for repository licensing terms. Third-party materials may have separate conditions; check the document and source before reuse or redistribution. Inclusion does not imply affiliation with a technology vendor.
+VERIQTA's original materials are proprietary and provided for personal, non-commercial educational reference under the [restricted-use licence](LICENSE). All rights not expressly granted are reserved. Third-party materials may have separate conditions; check the document and source before reuse or redistribution. Inclusion does not imply affiliation with a technology vendor.
