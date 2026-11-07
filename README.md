@@ -512,12 +512,12 @@
 <td align="center" valign="top" width="33%"><a href="15.%20Incident%20Response/06.%20The%20Container%20That%20Kept%20Crashing%20-%20VERIQTA%20Series.pdf"><img src="assets/pdf-covers/extra-04.jpg" alt="06. The Container That Kept Crashing - VERIQTA Series" title="06. The Container That Kept Crashing - VERIQTA Series" width="100%" /></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/294.jpg" alt="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" title="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/301.jpg" alt="DevOps Engineer Roadmap" title="DevOps Engineer Roadmap" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/302.jpg" alt="50 Most Used Linux Commands for DevOps / Cloud Engineers" title="50 Most Used Linux Commands for DevOps / Cloud Engineers" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/294.jpg" alt="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" title="DevOps, Cloud, Platform, SRE &amp; Cloud Security Roles and Certifications" width="100%" /></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/301.jpg" alt="DevOps Engineer Roadmap" title="DevOps Engineer Roadmap" width="100%" /></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/302.jpg" alt="50 Most Used Linux Commands for DevOps / Cloud Engineers" title="50 Most Used Linux Commands for DevOps / Cloud Engineers" width="100%" /></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/306.jpg" alt="Learn Linux from Beginner to Advanced — Part 1" title="Learn Linux from Beginner to Advanced — Part 1" width="100%" /><br /><strong>Reference image — no PDF confirmed</strong></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/306.jpg" alt="Learn Linux from Beginner to Advanced — Part 1" title="Learn Linux from Beginner to Advanced — Part 1" width="100%" /></td>
 <td></td>
 <td></td>
 </tr>
