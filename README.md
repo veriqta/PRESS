@@ -10,7 +10,9 @@
 
 </div>
 
-Explore **292 PDFs across 30 topics**, from Linux fundamentals to cloud infrastructure, DevOps, security and production engineering. Each topic folder has a README linking to its PDFs. The [complete catalog](CATALOG.md) lists every title in one searchable page.
+Practical engineering knowledge for learning, building and operating real systems. Explore handbooks, reference guides, projects and learning resources covering Linux, programming, cloud infrastructure, DevOps, security and production engineering.
+
+Browse by subject below, follow a suggested learning path, or use the [PDF catalog](CATALOG.md) to find a publication by title.
 
 Published by [VERIQTA](https://veriqta.com/), covering engineering education, technical publishing and professional assessment.
 
@@ -29,62 +31,62 @@ The collection contains large binary files; cloning or downloading the whole rep
 
 ## Browse topics
 
-Folders use descriptive lowercase names with hyphens. PDF publication filenames and volume numbers are preserved. Counts below refer to PDFs, including any distinct files with similar titles.
+Choose a subject to explore its publications and practical resources.
 
 ### Foundations
 
-| Topic | PDFs | What you will find |
-| --- | ---: | --- |
-| [Linux](linux/) | 26 | Administration, commands, permissions, internals and labs. |
-| [Programming & development](programming-and-development/) | 16 | Python, Go, Git, APIs, YAML and developer tools. |
-| [Networking](networking/) | 14 | Protocols, NGINX, traffic analysis and network operations. |
-| [Shell scripting](shell-scripting/) | 4 | Bash fundamentals and practical automation. |
+| Topic | What you will find |
+| --- | --- |
+| [Linux](linux/) | Administration, commands, permissions, internals and labs. |
+| [Programming & development](programming-and-development/) | Python, Go, Git, APIs, YAML and developer tools. |
+| [Networking](networking/) | Protocols, NGINX, traffic analysis and network operations. |
+| [Shell scripting](shell-scripting/) | Bash fundamentals and practical automation. |
 
 ### Cloud, containers & delivery
 
-| Topic | PDFs | What you will find |
-| --- | ---: | --- |
-| [AWS](aws/) | 22 | AWS services, architecture, projects and operations. |
-| [Azure & Google Cloud](azure-and-google-cloud/) | 9 | Azure, AKS, GCP and cloud fundamentals. |
-| [Containers](containers/) | 11 | Docker, Compose, Podman and container internals. |
-| [Kubernetes](kubernetes/) | 35 | Clusters, Helm, Argo CD, service mesh and certification practice. |
-| [CI/CD](ci-cd/) | 24 | Jenkins, GitHub Actions, GitLab and deployment pipelines. |
-| [Infrastructure as code](infrastructure-as-code/) | 17 | Separate Terraform/Terragrunt, Ansible and Chef folders. |
-| [DevOps](devops/) | 13 | General handbooks, daily operations, commands and FinOps. |
+| Topic | What you will find |
+| --- | --- |
+| [AWS](aws/) | AWS services, architecture, projects and operations. |
+| [Azure & Google Cloud](azure-and-google-cloud/) | Azure, AKS, GCP and cloud fundamentals. |
+| [Containers](containers/) | Docker, Compose, Podman and container internals. |
+| [Kubernetes](kubernetes/) | Clusters, Helm, Argo CD, service mesh and certification practice. |
+| [CI/CD](ci-cd/) | Jenkins, GitHub Actions, GitLab and deployment pipelines. |
+| [Infrastructure as code](infrastructure-as-code/) | Infrastructure provisioning, configuration management and repeatable automation. |
+| [DevOps](devops/) | General handbooks, daily operations, commands and FinOps. |
 
 ### Operate, secure & troubleshoot
 
-| Topic | PDFs | What you will find |
-| --- | ---: | --- |
-| [Incident response](incident-response/) | 15 | Incident playbooks, case studies and production failures. |
-| [Site reliability engineering](site-reliability-engineering/) | 6 | SRE practices, on-call work, chaos engineering and reliability. |
-| [Monitoring & observability](monitoring-and-observability/) | 9 | Prometheus, Grafana, ELK, Dynatrace and New Relic. |
-| [Troubleshooting](troubleshooting/) | 5 | Diagnostic playbooks, log reading and common delivery failures. |
-| [Production engineering](production-engineering/) | 2 | Environment takeovers and first on-call guidance. |
-| [Databases](databases/) | 4 | PostgreSQL, MySQL and Redis operations. |
-| [DevSecOps & identity](devsecops-and-identity/) | 3 | Pipeline security, Trivy and DevSecOps practices. |
-| [Cloud security](cloud-security/) | 3 | AWS security labs, controls and misconfigurations. |
+| Topic | What you will find |
+| --- | --- |
+| [Incident response](incident-response/) | Incident playbooks, case studies and production failures. |
+| [Site reliability engineering](site-reliability-engineering/) | SRE practices, on-call work, chaos engineering and reliability. |
+| [Monitoring & observability](monitoring-and-observability/) | Prometheus, Grafana, ELK, Dynatrace and New Relic. |
+| [Troubleshooting](troubleshooting/) | Diagnostic playbooks, log reading and common delivery failures. |
+| [Production engineering](production-engineering/) | Production readiness, operational ownership and service continuity. |
+| [Databases](databases/) | PostgreSQL, MySQL and Redis operations. |
+| [DevSecOps & identity](devsecops-and-identity/) | Pipeline security, Trivy and DevSecOps practices. |
+| [Cloud security](cloud-security/) | AWS security labs, controls and misconfigurations. |
 
 ### Specialist engineering
 
-| Topic | PDFs | What you will find |
-| --- | ---: | --- |
-| [Platform engineering](platform-engineering/) | 2 | Platform foundations and bootcamp material. |
-| [Infrastructure engineering](infrastructure-engineering/) | 6 | Infrastructure operations, outages, Kafka and RabbitMQ. |
-| [AI for DevOps](ai-for-devops/) | 4 | AI-assisted operations, agents and projects. |
-| [AI & GPU infrastructure](ai-and-gpu-infrastructure/) | 4 | GPU platforms, AI infrastructure and MLOps. |
-| [Engineering internals](engineering-internals/) | 1 | eBPF and deeper systems behaviour. |
-| [Architecture & design](architecture-and-design/) | 4 | System design, production architecture and diagrams. |
-| [Forward-deployed engineering](forward-deployed-engineering/) | 1 | Engineering delivery in customer environments. |
-| [Staff & principal engineering](staff-and-principal-engineering/) | 1 | Staff-level engineering responsibilities and judgement. |
+| Topic | What you will find |
+| --- | --- |
+| [Platform engineering](platform-engineering/) | Developer platforms, self-service infrastructure and shared engineering capabilities. |
+| [Infrastructure engineering](infrastructure-engineering/) | Infrastructure operations, outages, Kafka and RabbitMQ. |
+| [AI for DevOps](ai-for-devops/) | AI-assisted operations, agents and projects. |
+| [AI & GPU infrastructure](ai-and-gpu-infrastructure/) | GPU platforms, AI infrastructure and MLOps. |
+| [Engineering internals](engineering-internals/) | System internals, performance and deeper engineering mechanisms. |
+| [Architecture & design](architecture-and-design/) | System design, production architecture and diagrams. |
+| [Forward-deployed engineering](forward-deployed-engineering/) | Engineering delivery in customer environments. |
+| [Staff & principal engineering](staff-and-principal-engineering/) | Staff-level engineering responsibilities and judgement. |
 
 ### Career & practical work
 
-| Topic | PDFs | What you will find |
-| --- | ---: | --- |
-| [Career & certifications](career-and-certifications/) | 17 | Roadmaps, interviews, resumes, certification and first-month guidance. |
-| [Hands-on projects](hands-on-projects/) | 9 | DevOps, cloud, Kubernetes and infrastructure builds. |
-| [Engineering portfolio](engineering-portfolio/) | 5 | Home labs, portfolio guidance and project ideas. |
+| Topic | What you will find |
+| --- | --- |
+| [Career & certifications](career-and-certifications/) | Roadmaps, interviews, resumes, certification and first-month guidance. |
+| [Hands-on projects](hands-on-projects/) | DevOps, cloud, Kubernetes and infrastructure builds. |
+| [Engineering portfolio](engineering-portfolio/) | Home labs, portfolio guidance and project ideas. |
 
 ## Choose a learning path
 
@@ -102,13 +104,11 @@ These are suggested routes; choose documents that fit your goals and experience.
 - Incident case studies and response playbooks live in `incident-response/`. General diagnostic guides live in `troubleshooting/`.
 - Infrastructure-as-code publications are grouped into [Terraform & Terragrunt](infrastructure-as-code/terraform-and-terragrunt/), [Ansible](infrastructure-as-code/ansible/) and [Chef](infrastructure-as-code/chef/).
 
-If you followed an older numbered-folder link, use the [catalog](CATALOG.md) to find the same PDF by its original filename.
-
 ## Contribute
 
 Found a broken link, outdated example or unclear explanation? [Open an issue](https://github.com/veriqta/VERIQTA-PRESS/issues) with the document name, affected section and suggested correction. Include a public technical source where relevant.
 
-For a contribution, fork the repository, create a branch, place the document in the closest topic folder, and update that folder's README, the complete catalog and root counts. Check that relative links open correctly. Preserve existing PDFs when reorganizing; keep credentials, private data and generated artifacts out of contributions. Respect authorship and applicable licensing.
+For a contribution, fork the repository, create a branch, place the document in the closest topic folder, and add links to that folder's README and the complete catalog. Check that relative links open correctly. Preserve existing PDFs when reorganizing; keep credentials, private data and generated artifacts out of contributions. Respect authorship and applicable licensing.
 
 Star the repository to bookmark it. Use GitHub's Watch settings to choose update notifications; forks do not automatically receive upstream changes.
 
