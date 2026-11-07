@@ -29,3 +29,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [SONARQUBE HANDBOOK](SONARQUBE%20HANDBOOK.pdf)
 - [The Advanced Jenkins Handbook 30 Production Pipelines, Security Patterns, and Troubleshooting Scenarios](The%20Advanced%20Jenkins%20Handbook%2030%20Production%20Pipelines%2C%20Security%20Patterns%2C%20and%20Troubleshooting%20Scenarios.pdf)
 - [Zero-Downtime Deployments Explained Rolling Updates, Blue-Green, and Canary Deployments](Zero-Downtime%20Deployments%20Explained%20Rolling%20Updates%2C%20Blue-Green%2C%20and%20Canary%20Deployments.pdf)
+- [CICD OPERATIONS MANUAL](CICD%20OPERATIONS%20MANUAL.pdf)

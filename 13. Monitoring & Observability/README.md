@@ -13,3 +13,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [NEW RELIC FOR JUNIOR DEVOPS ENGINEER](NEW%20RELIC%20FOR%20JUNIOR%20DEVOPS%20ENGINEER.pdf)
 - [Prometheus and Grafana for Beginners Your First Dashboard](Prometheus%20and%20Grafana%20for%20Beginners%20Your%20First%20Dashboard.pdf)
 - [PROMETHEUS HANDBOOK](PROMETHEUS%20HANDBOOK.pdf)
+- [PROMETHEUS AND GRAFANA](PROMETHEUS%20AND%20GRAFANA.pdf)

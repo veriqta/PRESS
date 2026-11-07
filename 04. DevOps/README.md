@@ -17,3 +17,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [THE DEVOPS ENGINEER'S DAILY OPERATIONS HANDBOOK](THE%20DEVOPS%20ENGINEER%27S%20DAILY%20OPERATIONS%20HANDBOOK.pdf)
 - [The DevOps Glossary 100 Terms Explained Simply](The%20DevOps%20Glossary%20100%20Terms%20Explained%20Simply.pdf)
 - [THINGS SENIOR DEVOPS ENGINEER SHOULD KNOW](THINGS%20SENIOR%20DEVOPS%20ENGINEER%20SHOULD%20KNOW.pdf)
+- [The DevOps Command Cheat Sheet 100 Commands You'll Actually Use](The%20DevOps%20Command%20Cheat%20Sheet%20100%20Commands%20You%27ll%20Actually%20Use.pdf)
