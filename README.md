@@ -8,7 +8,7 @@
 
 **Free engineering PDFs and practical learning resources.**
 
-[Browse topics](#browse-topics) · [Search every PDF](CATALOG.md) · [Start learning](#choose-a-learning-path) · [Contribute](#contribute)
+[Find a PDF by cover](00.%20find%20pdf/) · [Browse topics](#browse-topics) · [Search every PDF](CATALOG.md) · [Start learning](#choose-a-learning-path) · [Contribute](#contribute)
 
 </div>
 
@@ -20,7 +20,7 @@ Published by [VERIQTA](https://veriqta.com/), covering engineering education, te
 
 ## Find and download a PDF
 
-1. Choose a topic below, or open the [complete catalog](CATALOG.md) and use **Ctrl+F** / **Command+F** to search titles.
+1. Browse the [cover gallery](00.%20find%20pdf/), choose a topic below, or open the [complete catalog](CATALOG.md) and use **Ctrl+F** / **Command+F** to search titles.
 2. Follow a PDF link to preview it on GitHub. If a preview is unavailable, use the file's download control.
 3. Download an individual publication for your personal, non-commercial study, as permitted by the [licence](LICENSE).
 
