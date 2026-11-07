@@ -2,7 +2,7 @@
   {
     "id": "001",
     "title": "Prometheus and Grafana Crash Course",
-    "cover": "covers/001.jpg",
+    "cover": "assets/pdf-covers/001.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -10,7 +10,7 @@
   {
     "id": "002",
     "title": "First 90 Days as an SRE",
-    "cover": "covers/002.jpg",
+    "cover": "assets/pdf-covers/002.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -18,7 +18,7 @@
   {
     "id": "003",
     "title": "Build an AI Linux Troubleshooting Assistant That Explains Real Command Output",
-    "cover": "covers/003.jpg",
+    "cover": "assets/pdf-covers/003.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -26,7 +26,7 @@
   {
     "id": "004",
     "title": "20 Kubernetes Production Projects",
-    "cover": "covers/004.jpg",
+    "cover": "assets/pdf-covers/004.jpg",
     "pdf": "06. Kubernetes/20 Kubernetes Production Projects.pdf",
     "status": "available",
     "group": "screenshots"
@@ -34,7 +34,7 @@
   {
     "id": "005",
     "title": "Redis Under the Hood",
-    "cover": "covers/005.jpg",
+    "cover": "assets/pdf-covers/005.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -42,7 +42,7 @@
   {
     "id": "006",
     "title": "50 Linux Interview Scenarios",
-    "cover": "covers/006.jpg",
+    "cover": "assets/pdf-covers/006.jpg",
     "pdf": "00. Linux/50 Linux Interview Scenarios.pdf",
     "status": "available",
     "group": "screenshots"
@@ -50,7 +50,7 @@
   {
     "id": "007",
     "title": "Cloud Security Lab 20 Real Misconfigurations to Find and Fix",
-    "cover": "covers/007.jpg",
+    "cover": "assets/pdf-covers/007.jpg",
     "pdf": "19. Cloud Security/Cloud Security Lab 20 Real Misconfigurations to Find and Fix.pdf",
     "status": "available",
     "group": "screenshots"
@@ -58,7 +58,7 @@
   {
     "id": "008",
     "title": "Python for DevOps Build 10 Command-Line Tools That Solve Real Problems",
-    "cover": "covers/008.jpg",
+    "cover": "assets/pdf-covers/008.jpg",
     "pdf": "01. Programming & Development/Python for DevOps Build 10 Command-Line Tools That Solve Real Problems.pdf",
     "status": "available",
     "group": "screenshots"
@@ -66,7 +66,7 @@
   {
     "id": "009",
     "title": "50 Production Incidents Every DevOps Engineer Should Know",
-    "cover": "covers/009.jpg",
+    "cover": "assets/pdf-covers/009.jpg",
     "pdf": "15. Incident Response/50 Production Incidents Every DevOps Engineer Should Know.pdf",
     "status": "available",
     "group": "screenshots"
@@ -74,7 +74,7 @@
   {
     "id": "010",
     "title": "The Kubernetes Handbook",
-    "cover": "covers/010.jpg",
+    "cover": "assets/pdf-covers/010.jpg",
     "pdf": "06. Kubernetes/The Kubernetes Handbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -82,7 +82,7 @@
   {
     "id": "011",
     "title": "The DevOps Command Cheat Sheet: 100 Commands You’ll Actually Use",
-    "cover": "covers/011.jpg",
+    "cover": "assets/pdf-covers/011.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -90,7 +90,7 @@
   {
     "id": "012",
     "title": "How to Read Network Traffic Like a Detective",
-    "cover": "covers/012.jpg",
+    "cover": "assets/pdf-covers/012.jpg",
     "pdf": "02. Networking/How to Read Network Traffic Like a Detective.pdf",
     "status": "available",
     "group": "screenshots"
@@ -98,7 +98,7 @@
   {
     "id": "013",
     "title": "10 Real-World DevOps Projects You Can Build and Add to GitHub",
-    "cover": "covers/013.jpg",
+    "cover": "assets/pdf-covers/013.jpg",
     "pdf": "28. Hands-On Projects/10 Real-World DevOps Projects You Can Build and Add to GitHub.pdf",
     "status": "available",
     "group": "screenshots"
@@ -106,7 +106,7 @@
   {
     "id": "014",
     "title": "Azure Cloud for Beginners Your First 20 Hands-On Labs,",
-    "cover": "covers/014.jpg",
+    "cover": "assets/pdf-covers/014.jpg",
     "pdf": "10. Azure & Google Cloud/Azure Cloud for Beginners Your First 20 Hands-On Labs,.pdf",
     "status": "available",
     "group": "screenshots"
@@ -114,7 +114,7 @@
   {
     "id": "015",
     "title": "GITHUB ACTION FOR AWS",
-    "cover": "covers/015.jpg",
+    "cover": "assets/pdf-covers/015.jpg",
     "pdf": "07. CI-CD & GitOps/GITHUB ACTION FOR AWS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -122,7 +122,7 @@
   {
     "id": "016",
     "title": "Linux Black Book",
-    "cover": "covers/016.jpg",
+    "cover": "assets/pdf-covers/016.jpg",
     "pdf": "00. Linux/Linux Black Book.pdf",
     "status": "available",
     "group": "screenshots"
@@ -130,7 +130,7 @@
   {
     "id": "017",
     "title": "DevOps Toolchain Atlas",
-    "cover": "covers/017.jpg",
+    "cover": "assets/pdf-covers/017.jpg",
     "pdf": "04. DevOps/DevOps Toolchain Atlas.pdf",
     "status": "available",
     "group": "screenshots"
@@ -138,7 +138,7 @@
   {
     "id": "018",
     "title": "50 AWS Interview Scenarios",
-    "cover": "covers/018.jpg",
+    "cover": "assets/pdf-covers/018.jpg",
     "pdf": "09. AWS/50 AWS Interview Scenarios.pdf",
     "status": "available",
     "group": "screenshots"
@@ -146,7 +146,7 @@
   {
     "id": "019",
     "title": "The Kubernetes Troubleshooting Handbook 50 Errors, Causes, and Fixes",
-    "cover": "covers/019.jpg",
+    "cover": "assets/pdf-covers/019.jpg",
     "pdf": "06. Kubernetes/The Kubernetes Troubleshooting Handbook 50 Errors, Causes, and Fixes.pdf",
     "status": "available",
     "group": "screenshots"
@@ -154,7 +154,7 @@
   {
     "id": "020",
     "title": "Golang for Beginners Your First 10 Scripts",
-    "cover": "covers/020.jpg",
+    "cover": "assets/pdf-covers/020.jpg",
     "pdf": "01. Programming & Development/Golang for Beginners Your First 10 Scripts.pdf",
     "status": "available",
     "group": "screenshots"
@@ -162,7 +162,7 @@
   {
     "id": "021",
     "title": "Senior DevOps Interviews in the AI Era 40 Real Architecture, Security, Automation, and Production Scenarios",
-    "cover": "covers/021.jpg",
+    "cover": "assets/pdf-covers/021.jpg",
     "pdf": "27. Career, Interviews & Certifications/Senior DevOps Interviews in the AI Era 40 Real Architecture, Security, Automation, and Production Scenarios.pdf",
     "status": "available",
     "group": "screenshots"
@@ -170,7 +170,7 @@
   {
     "id": "022",
     "title": "DEVOPS ROADMAP FOR MID-LEVEL TO SENIOR",
-    "cover": "covers/022.jpg",
+    "cover": "assets/pdf-covers/022.jpg",
     "pdf": "27. Career, Interviews & Certifications/DEVOPS ROADMAP FOR MID-LEVEL TO SENIOR.pdf",
     "status": "available",
     "group": "screenshots"
@@ -178,7 +178,7 @@
   {
     "id": "023",
     "title": "From Localhost to Production",
-    "cover": "covers/023.jpg",
+    "cover": "assets/pdf-covers/023.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -186,7 +186,7 @@
   {
     "id": "024",
     "title": "The Advanced Jenkins Handbook 30 Production Pipelines, Security Patterns, and Troubleshooting Scenarios",
-    "cover": "covers/024.jpg",
+    "cover": "assets/pdf-covers/024.jpg",
     "pdf": "07. CI-CD & GitOps/The Advanced Jenkins Handbook 30 Production Pipelines, Security Patterns, and Troubleshooting Scenarios.pdf",
     "status": "available",
     "group": "screenshots"
@@ -194,7 +194,7 @@
   {
     "id": "025",
     "title": "AWS Cloud Security for Beginners Secure Your First AWS Environment Step by Step",
-    "cover": "covers/025.jpg",
+    "cover": "assets/pdf-covers/025.jpg",
     "pdf": "19. Cloud Security/AWS Cloud Security for Beginners Secure Your First AWS Environment Step by Step.pdf",
     "status": "available",
     "group": "screenshots"
@@ -202,7 +202,7 @@
   {
     "id": "026",
     "title": "DevOps Architecture Diagrams 30 Real Systems Explained Step by Step",
-    "cover": "covers/026.jpg",
+    "cover": "assets/pdf-covers/026.jpg",
     "pdf": "23. System Architecture & Design/DevOps Architecture Diagrams 30 Real Systems Explained Step by Step.pdf",
     "status": "available",
     "group": "screenshots"
@@ -210,7 +210,7 @@
   {
     "id": "027",
     "title": "FIRST 30 MINUTES OF  A PRODUCTION INCIDENT",
-    "cover": "covers/027.jpg",
+    "cover": "assets/pdf-covers/027.jpg",
     "pdf": "15. Incident Response/FIRST 30 MINUTES OF  A PRODUCTION INCIDENT.pdf",
     "status": "available",
     "group": "screenshots"
@@ -218,7 +218,7 @@
   {
     "id": "028",
     "title": "AWS API Gateway for Beginners Build, Secure, and Troubleshoot Your First 10 APIs",
-    "cover": "covers/028.jpg",
+    "cover": "assets/pdf-covers/028.jpg",
     "pdf": "09. AWS/AWS API Gateway for Beginners Build, Secure, and Troubleshoot Your First 10 APIs.pdf",
     "status": "available",
     "group": "screenshots"
@@ -226,7 +226,7 @@
   {
     "id": "029",
     "title": "10 Terraform Projects for Your Portfolio",
-    "cover": "covers/029.jpg",
+    "cover": "assets/pdf-covers/029.jpg",
     "pdf": "08. Infrastructure as Code/10 Terraform Projects for Your Portfolio.pdf",
     "status": "available",
     "group": "screenshots"
@@ -234,7 +234,7 @@
   {
     "id": "030",
     "title": "Networking Lab Manual for DevOps",
-    "cover": "covers/030.jpg",
+    "cover": "assets/pdf-covers/030.jpg",
     "pdf": "02. Networking/Networking Lab Manual for DevOps.pdf",
     "status": "available",
     "group": "screenshots"
@@ -242,7 +242,7 @@
   {
     "id": "031",
     "title": "SYSTEM DESIGN FOR BEGINNERS",
-    "cover": "covers/031.jpg",
+    "cover": "assets/pdf-covers/031.jpg",
     "pdf": "23. System Architecture & Design/SYSTEM DESIGN FOR BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -250,7 +250,7 @@
   {
     "id": "032",
     "title": "Nginx for DevOps Engineers 30 Real Configurations and Fixes",
-    "cover": "covers/032.jpg",
+    "cover": "assets/pdf-covers/032.jpg",
     "pdf": "02. Networking/Nginx for DevOps Engineers 30 Real Configurations and Fixes.pdf",
     "status": "available",
     "group": "screenshots"
@@ -258,7 +258,7 @@
   {
     "id": "033",
     "title": "HTTP ERROR CODE HANDBOOK",
-    "cover": "covers/033.jpg",
+    "cover": "assets/pdf-covers/033.jpg",
     "pdf": "02. Networking/HTTP ERROR CODE HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -266,7 +266,7 @@
   {
     "id": "034",
     "title": "Linux Troubleshooting Handbook 100 Commands for Real Production Failures",
-    "cover": "covers/034.jpg",
+    "cover": "assets/pdf-covers/034.jpg",
     "pdf": "00. Linux/Linux Troubleshooting Handbook 100 Commands for Real Production Failures.pdf",
     "status": "available",
     "group": "screenshots"
@@ -274,7 +274,7 @@
   {
     "id": "035",
     "title": "AI for DevOps Engineers The Practical Handbook",
-    "cover": "covers/035.jpg",
+    "cover": "assets/pdf-covers/035.jpg",
     "pdf": "21. AI for DevOps/AI for DevOps Engineers The Practical Handbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -282,7 +282,7 @@
   {
     "id": "036",
     "title": "The DevOps Side Project Playbook 10 Ideas That Get You Hired",
-    "cover": "covers/036.jpg",
+    "cover": "assets/pdf-covers/036.jpg",
     "pdf": "29. Engineering Portfolio & Home Labs/The DevOps Side Project Playbook 10 Ideas That Get You Hired.pdf",
     "status": "available",
     "group": "screenshots"
@@ -290,7 +290,7 @@
   {
     "id": "037",
     "title": "50 Redis Interview Scenarios Questions, Answers, and Production Troubleshooting",
-    "cover": "covers/037.jpg",
+    "cover": "assets/pdf-covers/037.jpg",
     "pdf": "11. Databases/50 Redis Interview Scenarios Questions, Answers, and Production Troubleshooting.pdf",
     "status": "available",
     "group": "screenshots"
@@ -298,7 +298,7 @@
   {
     "id": "038",
     "title": "Build a Three-Tier App on AWS The Project That Gets You Hired",
-    "cover": "covers/038.jpg",
+    "cover": "assets/pdf-covers/038.jpg",
     "pdf": "09. AWS/Build a Three-Tier App on AWS The Project That Gets You Hired.pdf",
     "status": "available",
     "group": "screenshots"
@@ -306,7 +306,7 @@
   {
     "id": "039",
     "title": "The Cron Job Cookbook: 30 Recipes You’ll Actually Use",
-    "cover": "covers/039.jpg",
+    "cover": "assets/pdf-covers/039.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -314,7 +314,7 @@
   {
     "id": "040",
     "title": "Reading Logs Like a Detective A Beginner's Playbook",
-    "cover": "covers/040.jpg",
+    "cover": "assets/pdf-covers/040.jpg",
     "pdf": "16. Troubleshooting/Reading Logs Like a Detective A Beginner's Playbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -322,7 +322,7 @@
   {
     "id": "041",
     "title": "Your First AI Agent on AWS Build One Step by Step",
-    "cover": "covers/041.jpg",
+    "cover": "assets/pdf-covers/041.jpg",
     "pdf": "21. AI for DevOps/Your First AI Agent on AWS Build One Step by Step.pdf",
     "status": "available",
     "group": "screenshots"
@@ -330,7 +330,7 @@
   {
     "id": "042",
     "title": "ArgoCD for Beginners Your First GitOps Deployment",
-    "cover": "covers/042.jpg",
+    "cover": "assets/pdf-covers/042.jpg",
     "pdf": "06. Kubernetes/ArgoCD for Beginners Your First GitOps Deployment.pdf",
     "status": "available",
     "group": "screenshots"
@@ -338,7 +338,7 @@
   {
     "id": "043",
     "title": "Why Your DevOps Interviews Keep Failing (And How to Fix It)",
-    "cover": "covers/043.jpg",
+    "cover": "assets/pdf-covers/043.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -346,7 +346,7 @@
   {
     "id": "044",
     "title": "The Beginner's Troubleshooting Playbook How to Diagnose Real DevOps Failures",
-    "cover": "covers/044.jpg",
+    "cover": "assets/pdf-covers/044.jpg",
     "pdf": "16. Troubleshooting/The Beginner's Troubleshooting Playbook How to Diagnose Real DevOps Failures.pdf",
     "status": "available",
     "group": "screenshots"
@@ -354,7 +354,7 @@
   {
     "id": "045",
     "title": "What Senior DevOps Interviews Actually Test 40 Real Scenarios",
-    "cover": "covers/045.jpg",
+    "cover": "assets/pdf-covers/045.jpg",
     "pdf": "27. Career, Interviews & Certifications/What Senior DevOps Interviews Actually Test 40 Real Scenarios.pdf",
     "status": "available",
     "group": "screenshots"
@@ -362,7 +362,7 @@
   {
     "id": "046",
     "title": "Your DevOps Resume The 2026 Interview Playbook",
-    "cover": "covers/046.jpg",
+    "cover": "assets/pdf-covers/046.jpg",
     "pdf": "27. Career, Interviews & Certifications/Your DevOps Resume The 2026 Interview Playbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -370,7 +370,7 @@
   {
     "id": "047",
     "title": "Linux File Permissions The Beginner's Visual Guide",
-    "cover": "covers/047.jpg",
+    "cover": "assets/pdf-covers/047.jpg",
     "pdf": "00. Linux/Linux File Permissions The Beginner's Visual Guide.pdf",
     "status": "available",
     "group": "screenshots"
@@ -378,7 +378,7 @@
   {
     "id": "048",
     "title": "API Handbook for DevOps Beginners",
-    "cover": "covers/048.jpg",
+    "cover": "assets/pdf-covers/048.jpg",
     "pdf": "01. Programming & Development/API Handbook for DevOps Beginners.pdf",
     "status": "available",
     "group": "screenshots"
@@ -386,7 +386,7 @@
   {
     "id": "049",
     "title": "Python for DevOps Your First 10 Scripts",
-    "cover": "covers/049.jpg",
+    "cover": "assets/pdf-covers/049.jpg",
     "pdf": "01. Programming & Development/Python for DevOps Your First 10 Scripts.pdf",
     "status": "available",
     "group": "screenshots"
@@ -394,7 +394,7 @@
   {
     "id": "050",
     "title": "How to Set Up Your DevOps Home Lab on a Budget",
-    "cover": "covers/050.jpg",
+    "cover": "assets/pdf-covers/050.jpg",
     "pdf": "29. Engineering Portfolio & Home Labs/How to Set Up Your DevOps Home Lab on a Budget.pdf",
     "status": "available",
     "group": "screenshots"
@@ -402,7 +402,7 @@
   {
     "id": "051",
     "title": "10 AWS Hands-On Projects for Beginners",
-    "cover": "covers/051.jpg",
+    "cover": "assets/pdf-covers/051.jpg",
     "pdf": "09. AWS/10 AWS Hands-On Projects for Beginners.pdf",
     "status": "available",
     "group": "screenshots"
@@ -410,7 +410,7 @@
   {
     "id": "052",
     "title": "Ansible for Beginners Your First Playbook",
-    "cover": "covers/052.jpg",
+    "cover": "assets/pdf-covers/052.jpg",
     "pdf": "08. Infrastructure as Code/Ansible for Beginners Your First Playbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -418,7 +418,7 @@
   {
     "id": "053",
     "title": "GitHub Actions Your First Pipeline Step by Step",
-    "cover": "covers/053.jpg",
+    "cover": "assets/pdf-covers/053.jpg",
     "pdf": "07. CI-CD & GitOps/GitHub Actions Your First Pipeline Step by Step.pdf",
     "status": "available",
     "group": "screenshots"
@@ -426,7 +426,7 @@
   {
     "id": "054",
     "title": "Zero-Downtime Deployments Explained Rolling Updates, Blue-Green, and Canary Deployments",
-    "cover": "covers/054.jpg",
+    "cover": "assets/pdf-covers/054.jpg",
     "pdf": "07. CI-CD & GitOps/Zero-Downtime Deployments Explained Rolling Updates, Blue-Green, and Canary Deployments.pdf",
     "status": "available",
     "group": "screenshots"
@@ -434,7 +434,7 @@
   {
     "id": "055",
     "title": "Prometheus and Grafana for Beginners Your First Dashboard",
-    "cover": "covers/055.jpg",
+    "cover": "assets/pdf-covers/055.jpg",
     "pdf": "13. Monitoring & Observability/Prometheus and Grafana for Beginners Your First Dashboard.pdf",
     "status": "available",
     "group": "screenshots"
@@ -442,7 +442,7 @@
   {
     "id": "056",
     "title": "Docker Compose From Zero to Multi-Container",
-    "cover": "covers/056.jpg",
+    "cover": "assets/pdf-covers/056.jpg",
     "pdf": "05. Docker & Containers/Docker Compose From Zero to Multi-Container.pdf",
     "status": "available",
     "group": "screenshots"
@@ -450,7 +450,7 @@
   {
     "id": "057",
     "title": "The Networking Concepts DevOps Interviews Actually Test",
-    "cover": "covers/057.jpg",
+    "cover": "assets/pdf-covers/057.jpg",
     "pdf": "02. Networking/The Networking Concepts DevOps Interviews Actually Test.pdf",
     "status": "available",
     "group": "screenshots"
@@ -458,7 +458,7 @@
   {
     "id": "058",
     "title": "Kubernetes for Beginners Your First Pod, Service, and Deployment",
-    "cover": "covers/058.jpg",
+    "cover": "assets/pdf-covers/058.jpg",
     "pdf": "06. Kubernetes/Kubernetes for Beginners Your First Pod, Service, and Deployment.pdf",
     "status": "available",
     "group": "screenshots"
@@ -466,7 +466,7 @@
   {
     "id": "059",
     "title": "15 CICD Mistakes That Break Production (and How to Avoid Them)",
-    "cover": "covers/059.jpg",
+    "cover": "assets/pdf-covers/059.jpg",
     "pdf": "07. CI-CD & GitOps/15 CICD Mistakes That Break Production (and How to Avoid Them).pdf",
     "status": "available",
     "group": "screenshots"
@@ -474,7 +474,7 @@
   {
     "id": "060",
     "title": "Your First Month as a DevOps Engineer A Week-by-Week Plan",
-    "cover": "covers/060.jpg",
+    "cover": "assets/pdf-covers/060.jpg",
     "pdf": "27. Career, Interviews & Certifications/Your First Month as a DevOps Engineer A Week-by-Week Plan.pdf",
     "status": "available",
     "group": "screenshots"
@@ -482,7 +482,7 @@
   {
     "id": "061",
     "title": "Bash Scripting for Beginners Your First 10 Scripts",
-    "cover": "covers/061.jpg",
+    "cover": "assets/pdf-covers/061.jpg",
     "pdf": "03. Shell Scripting/Bash Scripting for Beginners Your First 10 Scripts.pdf",
     "status": "available",
     "group": "screenshots"
@@ -490,7 +490,7 @@
   {
     "id": "062",
     "title": "Terraform in Plain English",
-    "cover": "covers/062.jpg",
+    "cover": "assets/pdf-covers/062.jpg",
     "pdf": "08. Infrastructure as Code/Terraform in Plain English.pdf",
     "status": "available",
     "group": "screenshots"
@@ -498,7 +498,7 @@
   {
     "id": "063",
     "title": "From Zero to Deployed Your First App on AWS",
-    "cover": "covers/063.jpg",
+    "cover": "assets/pdf-covers/063.jpg",
     "pdf": "09. AWS/From Zero to Deployed Your First App on AWS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -506,7 +506,7 @@
   {
     "id": "064",
     "title": "The DevOps Glossary 100 Terms Explained Simply",
-    "cover": "covers/064.jpg",
+    "cover": "assets/pdf-covers/064.jpg",
     "pdf": "04. DevOps/The DevOps Glossary 100 Terms Explained Simply.pdf",
     "status": "available",
     "group": "screenshots"
@@ -514,7 +514,7 @@
   {
     "id": "065",
     "title": "ANATOMY OF A Dockerfile",
-    "cover": "covers/065.jpg",
+    "cover": "assets/pdf-covers/065.jpg",
     "pdf": "05. Docker & Containers/ANATOMY OF A Dockerfile.pdf",
     "status": "available",
     "group": "screenshots"
@@ -522,7 +522,7 @@
   {
     "id": "066",
     "title": "100 DEVOPS COMMANDS REFERENCE",
-    "cover": "covers/066.jpg",
+    "cover": "assets/pdf-covers/066.jpg",
     "pdf": "04. DevOps/100 DEVOPS COMMANDS REFERENCE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -530,7 +530,7 @@
   {
     "id": "067",
     "title": "10 GitHub repo that will get you hired in DevOps",
-    "cover": "covers/067.jpg",
+    "cover": "assets/pdf-covers/067.jpg",
     "pdf": "29. Engineering Portfolio & Home Labs/10 GitHub repo that will get you hired in DevOps.pdf",
     "status": "available",
     "group": "screenshots"
@@ -538,7 +538,7 @@
   {
     "id": "068",
     "title": "KUBECTL COMMANDS YOU'LL ACTUALLY USE",
-    "cover": "covers/068.jpg",
+    "cover": "assets/pdf-covers/068.jpg",
     "pdf": "06. Kubernetes/KUBECTL COMMANDS YOU'LL ACTUALLY USE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -546,7 +546,7 @@
   {
     "id": "069",
     "title": "DevOps Roadmap from ZERO to First Job",
-    "cover": "covers/069.jpg",
+    "cover": "assets/pdf-covers/069.jpg",
     "pdf": "27. Career, Interviews & Certifications/DevOps Roadmap from ZERO to First Job.pdf",
     "status": "available",
     "group": "screenshots"
@@ -554,7 +554,7 @@
   {
     "id": "070",
     "title": "50 Most Repeated DevOps Interview Questions (2026 Edition)",
-    "cover": "covers/070.jpg",
+    "cover": "assets/pdf-covers/070.jpg",
     "pdf": "27. Career, Interviews & Certifications/50 Most Repeated DevOps Interview Questions (2026 Edition).pdf",
     "status": "available",
     "group": "screenshots"
@@ -562,7 +562,7 @@
   {
     "id": "071",
     "title": "LINUX ESSENTIALS FOR ENGINEERS",
-    "cover": "covers/071.jpg",
+    "cover": "assets/pdf-covers/071.jpg",
     "pdf": "00. Linux/LINUX ESSENTIALS FOR ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -570,7 +570,7 @@
   {
     "id": "072",
     "title": "CICD PIPELINE",
-    "cover": "covers/072.jpg",
+    "cover": "assets/pdf-covers/072.jpg",
     "pdf": "07. CI-CD & GitOps/CICD PIPELINE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -578,7 +578,7 @@
   {
     "id": "073",
     "title": "AWS INCIDENT RESPONSE HANDBOOK",
-    "cover": "covers/073.jpg",
+    "cover": "assets/pdf-covers/073.jpg",
     "pdf": "09. AWS/AWS INCIDENT RESPONSE HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -586,7 +586,7 @@
   {
     "id": "074",
     "title": "DEVOPS  ARCHITECTURE INTERVIEW HANDBOOK",
-    "cover": "covers/074.jpg",
+    "cover": "assets/pdf-covers/074.jpg",
     "pdf": "27. Career, Interviews & Certifications/DEVOPS  ARCHITECTURE INTERVIEW HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -594,7 +594,7 @@
   {
     "id": "075",
     "title": "SENIOR NETWORKING BIBLE FOR",
-    "cover": "covers/075.jpg",
+    "cover": "assets/pdf-covers/075.jpg",
     "pdf": "02. Networking/SENIOR NETWORKING BIBLE FOR.pdf",
     "status": "available",
     "group": "screenshots"
@@ -602,7 +602,7 @@
   {
     "id": "076",
     "title": "DOCKER CHEAT SHEETS",
-    "cover": "covers/076.jpg",
+    "cover": "assets/pdf-covers/076.jpg",
     "pdf": "05. Docker & Containers/DOCKER CHEAT SHEETS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -610,7 +610,7 @@
   {
     "id": "077",
     "title": "KUBERNETES TOOLKIT",
-    "cover": "covers/077.jpg",
+    "cover": "assets/pdf-covers/077.jpg",
     "pdf": "06. Kubernetes/KUBERNETES TOOLKIT.pdf",
     "status": "available",
     "group": "screenshots"
@@ -618,7 +618,7 @@
   {
     "id": "078",
     "title": "The Enterprise Incident Response Black Book",
-    "cover": "covers/078.jpg",
+    "cover": "assets/pdf-covers/078.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -626,7 +626,7 @@
   {
     "id": "079",
     "title": "PYTHON AUTOMATION WITH AI",
-    "cover": "covers/079.jpg",
+    "cover": "assets/pdf-covers/079.jpg",
     "pdf": "01. Programming & Development/PYTHON AUTOMATION WITH AI.pdf",
     "status": "available",
     "group": "screenshots"
@@ -634,7 +634,7 @@
   {
     "id": "080",
     "title": "NETWORK ENGINEERS COMPANION",
-    "cover": "covers/080.jpg",
+    "cover": "assets/pdf-covers/080.jpg",
     "pdf": "02. Networking/NETWORK ENGINEERS COMPANION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -642,7 +642,7 @@
   {
     "id": "081",
     "title": "Master Git Commands with This Handy Cheat Sheet",
-    "cover": "covers/081.jpg",
+    "cover": "assets/pdf-covers/081.jpg",
     "pdf": "01. Programming & Development/Master Git Commands with This Handy Cheat Sheet.pdf",
     "status": "available",
     "group": "screenshots"
@@ -650,7 +650,7 @@
   {
     "id": "082",
     "title": "PLATFORM ENGINEERING BOOTCAMP",
-    "cover": "covers/082.jpg",
+    "cover": "assets/pdf-covers/082.jpg",
     "pdf": "20. Platform Engineering/PLATFORM ENGINEERING BOOTCAMP.pdf",
     "status": "available",
     "group": "screenshots"
@@ -658,7 +658,7 @@
   {
     "id": "083",
     "title": "DEVOPS GITHUB PORTFOLIO PROJECTS HANDBOOK",
-    "cover": "covers/083.jpg",
+    "cover": "assets/pdf-covers/083.jpg",
     "pdf": "28. Hands-On Projects/DEVOPS GITHUB PORTFOLIO PROJECTS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -666,7 +666,7 @@
   {
     "id": "084",
     "title": "20 KUBERNETES GRADE PROJECTS  FOR OPERATOR AND CONTROLLER",
-    "cover": "covers/084.jpg",
+    "cover": "assets/pdf-covers/084.jpg",
     "pdf": "06. Kubernetes/20 KUBERNETES GRADE PROJECTS  FOR OPERATOR AND CONTROLLER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -674,7 +674,7 @@
   {
     "id": "085",
     "title": "PODMAN ESSENTIALS",
-    "cover": "covers/085.jpg",
+    "cover": "assets/pdf-covers/085.jpg",
     "pdf": "05. Docker & Containers/PODMAN ESSENTIALS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -682,7 +682,7 @@
   {
     "id": "086",
     "title": "THE STAFF DEVOPS ENGINEER HANDBOOK",
-    "cover": "covers/086.jpg",
+    "cover": "assets/pdf-covers/086.jpg",
     "pdf": "26. Staff & Principal Engineering/THE STAFF DEVOPS ENGINEER HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -690,7 +690,7 @@
   {
     "id": "087",
     "title": "NEW RELIC FOR JUNIOR DEVOPS ENGINEER",
-    "cover": "covers/087.jpg",
+    "cover": "assets/pdf-covers/087.jpg",
     "pdf": "13. Monitoring & Observability/NEW RELIC FOR JUNIOR DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -698,7 +698,7 @@
   {
     "id": "088",
     "title": "CICD SECURITY PLAYBOOK",
-    "cover": "covers/088.jpg",
+    "cover": "assets/pdf-covers/088.jpg",
     "pdf": "07. CI-CD & GitOps/CICD SECURITY PLAYBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -706,7 +706,7 @@
   {
     "id": "089",
     "title": "INFRASTRUCTURE ENGINEERS COMPANION",
-    "cover": "covers/089.jpg",
+    "cover": "assets/pdf-covers/089.jpg",
     "pdf": "12. Infrastructure Engineering/INFRASTRUCTURE ENGINEERS COMPANION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -714,7 +714,7 @@
   {
     "id": "090",
     "title": "FIRST ON-CALL SURVIVAL GUIDE",
-    "cover": "covers/090.jpg",
+    "cover": "assets/pdf-covers/090.jpg",
     "pdf": "17. Production Engineering/FIRST ON-CALL SURVIVAL GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -722,7 +722,7 @@
   {
     "id": "091",
     "title": "20 AWS Production Architecture Projects",
-    "cover": "covers/091.jpg",
+    "cover": "assets/pdf-covers/091.jpg",
     "pdf": "09. AWS/20 AWS Production Architecture Projects.pdf",
     "status": "available",
     "group": "screenshots"
@@ -730,7 +730,7 @@
   {
     "id": "092",
     "title": "SRE BIBLE",
-    "cover": "covers/092.jpg",
+    "cover": "assets/pdf-covers/092.jpg",
     "pdf": "14. SRE & Reliability Engineering/SRE BIBLE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -738,7 +738,7 @@
   {
     "id": "093",
     "title": "ANATOMY OF A LINUX SYSTEM",
-    "cover": "covers/093.jpg",
+    "cover": "assets/pdf-covers/093.jpg",
     "pdf": "00. Linux/ANATOMY OF A LINUX SYSTEM.pdf",
     "status": "available",
     "group": "screenshots"
@@ -746,7 +746,7 @@
   {
     "id": "094",
     "title": "Jenkins Administrator Guild",
-    "cover": "covers/094.jpg",
+    "cover": "assets/pdf-covers/094.jpg",
     "pdf": "07. CI-CD & GitOps/Jenkins Administrator Guild.pdf",
     "status": "available",
     "group": "screenshots"
@@ -754,7 +754,7 @@
   {
     "id": "095",
     "title": "ARGO CD ZERO TO PRODUCTION",
-    "cover": "covers/095.jpg",
+    "cover": "assets/pdf-covers/095.jpg",
     "pdf": "06. Kubernetes/ARGO CD ZERO TO PRODUCTION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -762,7 +762,7 @@
   {
     "id": "096",
     "title": "DEVOPS CODE REVIEW HANDBOOK",
-    "cover": "covers/096.jpg",
+    "cover": "assets/pdf-covers/096.jpg",
     "pdf": "04. DevOps/DEVOPS CODE REVIEW HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -770,7 +770,7 @@
   {
     "id": "097",
     "title": "YAML for beginners",
-    "cover": "covers/097.jpg",
+    "cover": "assets/pdf-covers/097.jpg",
     "pdf": "01. Programming & Development/YAML for beginners.pdf",
     "status": "available",
     "group": "screenshots"
@@ -778,7 +778,7 @@
   {
     "id": "098",
     "title": "Kafka Production Handbook",
-    "cover": "covers/098.jpg",
+    "cover": "assets/pdf-covers/098.jpg",
     "pdf": "12. Infrastructure Engineering/Kafka Production Handbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -786,7 +786,7 @@
   {
     "id": "099",
     "title": "LINUX ADMINISTRATOR COMMAND LINE TOOLKIT",
-    "cover": "covers/099.jpg",
+    "cover": "assets/pdf-covers/099.jpg",
     "pdf": "00. Linux/LINUX ADMINISTRATOR COMMAND LINE TOOLKIT.pdf",
     "status": "available",
     "group": "screenshots"
@@ -794,7 +794,7 @@
   {
     "id": "100",
     "title": "GPU INFRASTRUCTURE 101",
-    "cover": "covers/100.jpg",
+    "cover": "assets/pdf-covers/100.jpg",
     "pdf": "22. AI Infrastructure & MLOps/GPU INFRASTRUCTURE 101.pdf",
     "status": "available",
     "group": "screenshots"
@@ -802,7 +802,7 @@
   {
     "id": "101",
     "title": "OPENSHIFT FOR COMPLETE BEGINNER'S",
-    "cover": "covers/101.jpg",
+    "cover": "assets/pdf-covers/101.jpg",
     "pdf": "06. Kubernetes/OPENSHIFT FOR COMPLETE BEGINNER'S.pdf",
     "status": "available",
     "group": "screenshots"
@@ -810,7 +810,7 @@
   {
     "id": "102",
     "title": "MLOPs for devops and platform engineers",
-    "cover": "covers/102.jpg",
+    "cover": "assets/pdf-covers/102.jpg",
     "pdf": "22. AI Infrastructure & MLOps/MLOPs for devops and platform engineers.pdf",
     "status": "available",
     "group": "screenshots"
@@ -818,7 +818,7 @@
   {
     "id": "103",
     "title": "Kubernetes under the hood",
-    "cover": "covers/103.jpg",
+    "cover": "assets/pdf-covers/103.jpg",
     "pdf": "06. Kubernetes/Kubernetes under the hood.pdf",
     "status": "available",
     "group": "screenshots"
@@ -826,7 +826,7 @@
   {
     "id": "104",
     "title": "LINUX INTERNAL FOR DEVOPS ENGINEER",
-    "cover": "covers/104.jpg",
+    "cover": "assets/pdf-covers/104.jpg",
     "pdf": "00. Linux/LINUX INTERNAL FOR DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -834,7 +834,7 @@
   {
     "id": "105",
     "title": "eBPF for devops & infrastructure engineer",
-    "cover": "covers/105.jpg",
+    "cover": "assets/pdf-covers/105.jpg",
     "pdf": "24. Advanced Engineering Internals/eBPF for devops & infrastructure engineer.pdf",
     "status": "available",
     "group": "screenshots"
@@ -842,7 +842,7 @@
   {
     "id": "106",
     "title": "AWS INFRASTRUCTURE LAB MANUAL",
-    "cover": "covers/106.jpg",
+    "cover": "assets/pdf-covers/106.jpg",
     "pdf": "09. AWS/AWS INFRASTRUCTURE LAB MANUAL.pdf",
     "status": "available",
     "group": "screenshots"
@@ -850,7 +850,7 @@
   {
     "id": "107",
     "title": "GPU INFRASTRUCTURE FOR PLATFORM ENGINEERS",
-    "cover": "covers/107.jpg",
+    "cover": "assets/pdf-covers/107.jpg",
     "pdf": "22. AI Infrastructure & MLOps/GPU INFRASTRUCTURE FOR PLATFORM ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -858,7 +858,7 @@
   {
     "id": "108",
     "title": "TERRAFORM CRASH COURSE",
-    "cover": "covers/108.jpg",
+    "cover": "assets/pdf-covers/108.jpg",
     "pdf": "08. Infrastructure as Code/TERRAFORM CRASH COURSE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -866,7 +866,7 @@
   {
     "id": "109",
     "title": "THE PRODUCTION ENVIRONMENT TAKEOVER HANDBOOK",
-    "cover": "covers/109.jpg",
+    "cover": "assets/pdf-covers/109.jpg",
     "pdf": "17. Production Engineering/THE PRODUCTION ENVIRONMENT TAKEOVER HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -874,7 +874,7 @@
   {
     "id": "110",
     "title": "LINUX ADMINISTRATOR SURVIVAL GUIDE",
-    "cover": "covers/110.jpg",
+    "cover": "assets/pdf-covers/110.jpg",
     "pdf": "00. Linux/LINUX ADMINISTRATOR SURVIVAL GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -882,7 +882,7 @@
   {
     "id": "111",
     "title": "DEVOPS TROUBLESHOOTING ENCYCLOPEDIA",
-    "cover": "covers/111.jpg",
+    "cover": "assets/pdf-covers/111.jpg",
     "pdf": "16. Troubleshooting/DEVOPS TROUBLESHOOTING ENCYCLOPEDIA.pdf",
     "status": "available",
     "group": "screenshots"
@@ -890,7 +890,7 @@
   {
     "id": "112",
     "title": "20 ADVANCED INFRASTRUCTURE PROJECTS",
-    "cover": "covers/112.jpg",
+    "cover": "assets/pdf-covers/112.jpg",
     "pdf": "28. Hands-On Projects/20 ADVANCED INFRASTRUCTURE PROJECTS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -898,7 +898,7 @@
   {
     "id": "113",
     "title": "AI INFRASTRUCTURE ENGINEERING FUNDAMENTALS",
-    "cover": "covers/113.jpg",
+    "cover": "assets/pdf-covers/113.jpg",
     "pdf": "22. AI Infrastructure & MLOps/AI INFRASTRUCTURE ENGINEERING FUNDAMENTALS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -906,7 +906,7 @@
   {
     "id": "114",
     "title": "NGINX CRASH COURSE",
-    "cover": "covers/114.jpg",
+    "cover": "assets/pdf-covers/114.jpg",
     "pdf": "02. Networking/NGINX CRASH COURSE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -914,7 +914,7 @@
   {
     "id": "115",
     "title": "GITLAB ADMINISTRATOR'S GUIDE",
-    "cover": "covers/115.jpg",
+    "cover": "assets/pdf-covers/115.jpg",
     "pdf": "07. CI-CD & GitOps/GITLAB ADMINISTRATOR'S GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -922,7 +922,7 @@
   {
     "id": "116",
     "title": "AWS BLACK BOOK",
-    "cover": "covers/116.jpg",
+    "cover": "assets/pdf-covers/116.jpg",
     "pdf": "09. AWS/AWS BLACK BOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -930,7 +930,7 @@
   {
     "id": "117",
     "title": "ANSIBLE CRASH COURSE",
-    "cover": "covers/117.jpg",
+    "cover": "assets/pdf-covers/117.jpg",
     "pdf": "08. Infrastructure as Code/ANSIBLE CRASH COURSE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -938,7 +938,7 @@
   {
     "id": "118",
     "title": "ANATOMY OF CICD PIPELINE",
-    "cover": "covers/118.jpg",
+    "cover": "assets/pdf-covers/118.jpg",
     "pdf": "07. CI-CD & GitOps/ANATOMY OF CICD PIPELINE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -946,7 +946,7 @@
   {
     "id": "119",
     "title": "SENIOR DEVOPS INTERVIEW HANDBOOK",
-    "cover": "covers/119.jpg",
+    "cover": "assets/pdf-covers/119.jpg",
     "pdf": "27. Career, Interviews & Certifications/SENIOR DEVOPS INTERVIEW HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -954,7 +954,7 @@
   {
     "id": "120",
     "title": "LINUX AUTOMATION COOKBOOK",
-    "cover": "covers/120.jpg",
+    "cover": "assets/pdf-covers/120.jpg",
     "pdf": "00. Linux/LINUX AUTOMATION COOKBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -962,7 +962,7 @@
   {
     "id": "121",
     "title": "AZURE DEVOPS POCKET GUIDE",
-    "cover": "covers/121.jpg",
+    "cover": "assets/pdf-covers/121.jpg",
     "pdf": "10. Azure & Google Cloud/AZURE DEVOPS POCKET GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -970,7 +970,7 @@
   {
     "id": "122",
     "title": "GCP FOR DEVOPS ENGINEER",
-    "cover": "covers/122.jpg",
+    "cover": "assets/pdf-covers/122.jpg",
     "pdf": "10. Azure & Google Cloud/GCP FOR DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -978,7 +978,7 @@
   {
     "id": "123",
     "title": "CI/CD Operations Manual",
-    "cover": "covers/123.jpg",
+    "cover": "assets/pdf-covers/123.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -986,7 +986,7 @@
   {
     "id": "124",
     "title": "PYTHON AUTOMATION POCKET GUIDE",
-    "cover": "covers/124.jpg",
+    "cover": "assets/pdf-covers/124.jpg",
     "pdf": "01. Programming & Development/PYTHON AUTOMATION POCKET GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -994,7 +994,7 @@
   {
     "id": "125",
     "title": "GO FOR DEVOPS ENGINEER",
-    "cover": "covers/125.jpg",
+    "cover": "assets/pdf-covers/125.jpg",
     "pdf": "01. Programming & Development/GO FOR DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1002,7 +1002,7 @@
   {
     "id": "126",
     "title": "TERRAFORM FOR SENIOR INFRASTRUCTURE ENGINEERS",
-    "cover": "covers/126.jpg",
+    "cover": "assets/pdf-covers/126.jpg",
     "pdf": "08. Infrastructure as Code/TERRAFORM FOR SENIOR INFRASTRUCTURE ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1010,7 +1010,7 @@
   {
     "id": "127",
     "title": "KUBERNETES ADMINISTRATOR'S SURVIVAL GUIDE",
-    "cover": "covers/127.jpg",
+    "cover": "assets/pdf-covers/127.jpg",
     "pdf": "06. Kubernetes/KUBERNETES ADMINISTRATOR'S SURVIVAL GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1018,7 +1018,7 @@
   {
     "id": "128",
     "title": "NETWORK ENGINEERING GUIDEBOOK",
-    "cover": "covers/128.jpg",
+    "cover": "assets/pdf-covers/128.jpg",
     "pdf": "02. Networking/NETWORK ENGINEERING GUIDEBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1026,7 +1026,7 @@
   {
     "id": "129",
     "title": "DevOps Engineer’s Companion: Everyday DevOps Knowledge",
-    "cover": "covers/129.jpg",
+    "cover": "assets/pdf-covers/129.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -1034,7 +1034,7 @@
   {
     "id": "130",
     "title": "INCIDENT RESPONSE PLAYBOOK",
-    "cover": "covers/130.jpg",
+    "cover": "assets/pdf-covers/130.jpg",
     "pdf": "15. Incident Response/INCIDENT RESPONSE PLAYBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1042,7 +1042,7 @@
   {
     "id": "131",
     "title": "LINUX ENGINEERING BIBLE",
-    "cover": "covers/131.jpg",
+    "cover": "assets/pdf-covers/131.jpg",
     "pdf": "00. Linux/LINUX ENGINEERING BIBLE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1050,7 +1050,7 @@
   {
     "id": "132",
     "title": "PRODUCTION ARCHITECTURE FOR DEVOPS ENGINEERS",
-    "cover": "covers/132.jpg",
+    "cover": "assets/pdf-covers/132.jpg",
     "pdf": "23. System Architecture & Design/PRODUCTION ARCHITECTURE FOR DEVOPS ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1058,7 +1058,7 @@
   {
     "id": "133",
     "title": "DEVOPS COMMAND REFERENCE",
-    "cover": "covers/133.jpg",
+    "cover": "assets/pdf-covers/133.jpg",
     "pdf": "04. DevOps/DEVOPS COMMAND REFERENCE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1066,7 +1066,7 @@
   {
     "id": "134",
     "title": "ADVANCE TERRAFORM PRODUCTION",
-    "cover": "covers/134.jpg",
+    "cover": "assets/pdf-covers/134.jpg",
     "pdf": "08. Infrastructure as Code/ADVANCE TERRAFORM PRODUCTION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1074,7 +1074,7 @@
   {
     "id": "135",
     "title": "50 CICD MISTAKES AND HOW TO FIX THEM",
-    "cover": "covers/135.jpg",
+    "cover": "assets/pdf-covers/135.jpg",
     "pdf": "07. CI-CD & GitOps/50 CICD MISTAKES AND HOW TO FIX THEM.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1082,7 +1082,7 @@
   {
     "id": "136",
     "title": "AWS POCKET GUIDE",
-    "cover": "covers/136.jpg",
+    "cover": "assets/pdf-covers/136.jpg",
     "pdf": "09. AWS/AWS POCKET GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1090,7 +1090,7 @@
   {
     "id": "137",
     "title": "LINUX POCKET GUIDE",
-    "cover": "covers/137.jpg",
+    "cover": "assets/pdf-covers/137.jpg",
     "pdf": "00. Linux/LINUX POCKET GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1098,7 +1098,7 @@
   {
     "id": "138",
     "title": "100 REAL-WORLD DEVOPS INTERVIEW SCENARIOS",
-    "cover": "covers/138.jpg",
+    "cover": "assets/pdf-covers/138.jpg",
     "pdf": "27. Career, Interviews & Certifications/100 REAL-WORLD DEVOPS INTERVIEW SCENARIOS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1106,7 +1106,7 @@
   {
     "id": "139",
     "title": "DEVSECOPS BOOTCAMP",
-    "cover": "covers/139.jpg",
+    "cover": "assets/pdf-covers/139.jpg",
     "pdf": "18. DevSecOps & Identity/DEVSECOPS BOOTCAMP.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1114,7 +1114,7 @@
   {
     "id": "140",
     "title": "DEVOPS POCKEK GUIDE",
-    "cover": "covers/140.jpg",
+    "cover": "assets/pdf-covers/140.jpg",
     "pdf": "04. DevOps/DEVOPS POCKEK GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1122,7 +1122,7 @@
   {
     "id": "141",
     "title": "NETWORKING FOR SENIOR DEVOPS ENGINEER",
-    "cover": "covers/141.jpg",
+    "cover": "assets/pdf-covers/141.jpg",
     "pdf": "02. Networking/NETWORKING FOR SENIOR DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1130,7 +1130,7 @@
   {
     "id": "142",
     "title": "KUBERNETES BLACK BOOK",
-    "cover": "covers/142.jpg",
+    "cover": "assets/pdf-covers/142.jpg",
     "pdf": "06. Kubernetes/KUBERNETES BLACK BOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1138,7 +1138,7 @@
   {
     "id": "143",
     "title": "INFRASTRUCTURE OUTAGES EVERY ENGINEER SHOULD KNOW",
-    "cover": "covers/143.jpg",
+    "cover": "assets/pdf-covers/143.jpg",
     "pdf": "12. Infrastructure Engineering/INFRASTRUCTURE OUTAGES EVERY ENGINEER SHOULD KNOW.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1146,7 +1146,7 @@
   {
     "id": "144",
     "title": "20 NETWORKING PROJECTS FOR DEVOPS ENGINEERS",
-    "cover": "covers/144.jpg",
+    "cover": "assets/pdf-covers/144.jpg",
     "pdf": "02. Networking/20 NETWORKING PROJECTS FOR DEVOPS ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1154,7 +1154,7 @@
   {
     "id": "145",
     "title": "COMPLETE DEVOPS BOOTCAMP",
-    "cover": "covers/145.jpg",
+    "cover": "assets/pdf-covers/145.jpg",
     "pdf": "04. DevOps/COMPLETE DEVOPS BOOTCAMP.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1162,7 +1162,7 @@
   {
     "id": "146",
     "title": "50 JENKINS INTERVIEW SCENARIOS",
-    "cover": "covers/146.jpg",
+    "cover": "assets/pdf-covers/146.jpg",
     "pdf": "07. CI-CD & GitOps/50 JENKINS INTERVIEW SCENARIOS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1170,7 +1170,7 @@
   {
     "id": "147",
     "title": "LINUX HOME LAB",
-    "cover": "covers/147.jpg",
+    "cover": "assets/pdf-covers/147.jpg",
     "pdf": "00. Linux/LINUX HOME LAB.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1178,7 +1178,7 @@
   {
     "id": "148",
     "title": "GITLAB 101",
-    "cover": "covers/148.jpg",
+    "cover": "assets/pdf-covers/148.jpg",
     "pdf": "07. CI-CD & GitOps/GITLAB 101.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1186,7 +1186,7 @@
   {
     "id": "149",
     "title": "50 DOCKER INTERVIEW SCENARIOS",
-    "cover": "covers/149.jpg",
+    "cover": "assets/pdf-covers/149.jpg",
     "pdf": "05. Docker & Containers/50 DOCKER INTERVIEW SCENARIOS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1194,7 +1194,7 @@
   {
     "id": "150",
     "title": "DOCKER UNDER THE HOOD",
-    "cover": "covers/150.jpg",
+    "cover": "assets/pdf-covers/150.jpg",
     "pdf": "05. Docker & Containers/DOCKER UNDER THE HOOD.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1202,7 +1202,7 @@
   {
     "id": "151",
     "title": "50 SENIOR LEVEL LINUX INTERVIEW SCENARIOS",
-    "cover": "covers/151.jpg",
+    "cover": "assets/pdf-covers/151.jpg",
     "pdf": "00. Linux/50 SENIOR LEVEL LINUX INTERVIEW SCENARIOS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1210,7 +1210,7 @@
   {
     "id": "152",
     "title": "SENIOR LINUX TROUBLESHOOTING HANDBOOK",
-    "cover": "covers/152.jpg",
+    "cover": "assets/pdf-covers/152.jpg",
     "pdf": "00. Linux/SENIOR LINUX TROUBLESHOOTING HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1218,7 +1218,7 @@
   {
     "id": "153",
     "title": "GRAFANA IN PRODUCTION",
-    "cover": "covers/153.jpg",
+    "cover": "assets/pdf-covers/153.jpg",
     "pdf": "13. Monitoring & Observability/GRAFANA IN PRODUCTION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1226,7 +1226,7 @@
   {
     "id": "154",
     "title": "CLOUD ENGINEER COMMAND-LINE TOOLKIT",
-    "cover": "covers/154.jpg",
+    "cover": "assets/pdf-covers/154.jpg",
     "pdf": "10. Azure & Google Cloud/CLOUD ENGINEER COMMAND-LINE TOOLKIT.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1234,7 +1234,7 @@
   {
     "id": "155",
     "title": "ANATOMY OF A KUBERNETES CLUSTER",
-    "cover": "covers/155.jpg",
+    "cover": "assets/pdf-covers/155.jpg",
     "pdf": "06. Kubernetes/ANATOMY OF A KUBERNETES CLUSTER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1242,7 +1242,7 @@
   {
     "id": "156",
     "title": "PRODUCTION INCIDENT CASEBOOK",
-    "cover": "covers/156.jpg",
+    "cover": "assets/pdf-covers/156.jpg",
     "pdf": "15. Incident Response/PRODUCTION INCIDENT CASEBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1250,7 +1250,7 @@
   {
     "id": "157",
     "title": "REDIS PRODUCTION HANDBOOK",
-    "cover": "covers/157.jpg",
+    "cover": "assets/pdf-covers/157.jpg",
     "pdf": "11. Databases/REDIS PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1258,7 +1258,7 @@
   {
     "id": "158",
     "title": "AWS COOKBOOK",
-    "cover": "covers/158.jpg",
+    "cover": "assets/pdf-covers/158.jpg",
     "pdf": "09. AWS/AWS COOKBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1266,7 +1266,7 @@
   {
     "id": "159",
     "title": "LINUX TROUBLESHOOTING FOR BEGINNERS",
-    "cover": "covers/159.jpg",
+    "cover": "assets/pdf-covers/159.jpg",
     "pdf": "00. Linux/LINUX TROUBLESHOOTING FOR BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1274,7 +1274,7 @@
   {
     "id": "160",
     "title": "AI-POWERED DEVOPS PROJECTS HANDBOOK",
-    "cover": "covers/160.jpg",
+    "cover": "assets/pdf-covers/160.jpg",
     "pdf": "21. AI for DevOps/AI-POWERED DEVOPS PROJECTS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1282,7 +1282,7 @@
   {
     "id": "161",
     "title": "JENKINS PIPELINE IN PRODUCTION HANDBOOK",
-    "cover": "covers/161.jpg",
+    "cover": "assets/pdf-covers/161.jpg",
     "pdf": "07. CI-CD & GitOps/JENKINS PIPELINE IN PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1290,7 +1290,7 @@
   {
     "id": "162",
     "title": "THINGS SENIOR DEVOPS ENGINEER SHOULD KNOW",
-    "cover": "covers/162.jpg",
+    "cover": "assets/pdf-covers/162.jpg",
     "pdf": "04. DevOps/THINGS SENIOR DEVOPS ENGINEER SHOULD KNOW.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1298,7 +1298,7 @@
   {
     "id": "163",
     "title": "CLOUD SECURITY FOR BEGINNERS",
-    "cover": "covers/163.jpg",
+    "cover": "assets/pdf-covers/163.jpg",
     "pdf": "19. Cloud Security/CLOUD SECURITY FOR BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1306,7 +1306,7 @@
   {
     "id": "164",
     "title": "20 PRODUCTION GRADE DEVOPS PROJECTS HANDBOOK",
-    "cover": "covers/164.jpg",
+    "cover": "assets/pdf-covers/164.jpg",
     "pdf": "28. Hands-On Projects/20 PRODUCTION GRADE DEVOPS PROJECTS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1314,7 +1314,7 @@
   {
     "id": "165",
     "title": "GIT IN PRODUCTION",
-    "cover": "covers/165.jpg",
+    "cover": "assets/pdf-covers/165.jpg",
     "pdf": "01. Programming & Development/GIT IN PRODUCTION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1322,7 +1322,7 @@
   {
     "id": "166",
     "title": "KUBERNETES INTERVIEW SCENARIOS HANDBOOK",
-    "cover": "covers/166.jpg",
+    "cover": "assets/pdf-covers/166.jpg",
     "pdf": "06. Kubernetes/KUBERNETES INTERVIEW SCENARIOS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1330,7 +1330,7 @@
   {
     "id": "167",
     "title": "MAVEN PRODUCTION HANDBOOK",
-    "cover": "covers/167.jpg",
+    "cover": "assets/pdf-covers/167.jpg",
     "pdf": "01. Programming & Development/MAVEN PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1338,7 +1338,7 @@
   {
     "id": "168",
     "title": "KUBERNETES REAL-WORLD PROJECTS FOR JUNIOR ENGINEERS",
-    "cover": "covers/168.jpg",
+    "cover": "assets/pdf-covers/168.jpg",
     "pdf": "06. Kubernetes/KUBERNETES REAL-WORLD PROJECTS FOR JUNIOR ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1346,7 +1346,7 @@
   {
     "id": "169",
     "title": "PROMETHEUS HANDBOOK",
-    "cover": "covers/169.jpg",
+    "cover": "assets/pdf-covers/169.jpg",
     "pdf": "13. Monitoring & Observability/PROMETHEUS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1354,7 +1354,7 @@
   {
     "id": "170",
     "title": "INCIDENTS RESPONSE HANDBOOK",
-    "cover": "covers/170.jpg",
+    "cover": "assets/pdf-covers/170.jpg",
     "pdf": "15. Incident Response/INCIDENTS RESPONSE HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1362,7 +1362,7 @@
   {
     "id": "171",
     "title": "FINOPS HANDBOOK",
-    "cover": "covers/171.jpg",
+    "cover": "assets/pdf-covers/171.jpg",
     "pdf": "04. DevOps/FINOPS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1370,7 +1370,7 @@
   {
     "id": "172",
     "title": "TERRAFORM REAL-WORLD PROJECTS HANDBOOK",
-    "cover": "covers/172.jpg",
+    "cover": "assets/pdf-covers/172.jpg",
     "pdf": "08. Infrastructure as Code/TERRAFORM REAL-WORLD PROJECTS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1378,7 +1378,7 @@
   {
     "id": "173",
     "title": "CLOUD COMPUTING HANDBOOK",
-    "cover": "covers/173.jpg",
+    "cover": "assets/pdf-covers/173.jpg",
     "pdf": "10. Azure & Google Cloud/CLOUD COMPUTING HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1386,7 +1386,7 @@
   {
     "id": "174",
     "title": "RABBITMQ PRODUCTION HANDBOOK",
-    "cover": "covers/174.jpg",
+    "cover": "assets/pdf-covers/174.jpg",
     "pdf": "12. Infrastructure Engineering/RABBITMQ PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1394,7 +1394,7 @@
   {
     "id": "175",
     "title": "ANSIBLE IN A NUTSHELL",
-    "cover": "covers/175.jpg",
+    "cover": "assets/pdf-covers/175.jpg",
     "pdf": "08. Infrastructure as Code/ANSIBLE IN A NUTSHELL.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1402,7 +1402,7 @@
   {
     "id": "176",
     "title": "NETWORKING TROUBLESHOOTING FOR DEVOPS ENGINEER",
-    "cover": "covers/176.jpg",
+    "cover": "assets/pdf-covers/176.jpg",
     "pdf": "02. Networking/NETWORKING TROUBLESHOOTING FOR DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1410,7 +1410,7 @@
   {
     "id": "177",
     "title": "RHEL ENTERPRISE LINUX  ADMINISTRATION HANDBOOK",
-    "cover": "covers/177.jpg",
+    "cover": "assets/pdf-covers/177.jpg",
     "pdf": "00. Linux/RHEL ENTERPRISE LINUX  ADMINISTRATION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1418,7 +1418,7 @@
   {
     "id": "178",
     "title": "AWS SYSTEM DESIGN INTERVIEW HANDBOOK",
-    "cover": "covers/178.jpg",
+    "cover": "assets/pdf-covers/178.jpg",
     "pdf": "09. AWS/AWS SYSTEM DESIGN INTERVIEW HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1426,7 +1426,7 @@
   {
     "id": "179",
     "title": "HOW TO ANSWER SCENARIO-BASED TECHNICAL INTERVIEWS",
-    "cover": "covers/179.jpg",
+    "cover": "assets/pdf-covers/179.jpg",
     "pdf": "27. Career, Interviews & Certifications/HOW TO ANSWER SCENARIO-BASED TECHNICAL INTERVIEWS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1434,7 +1434,7 @@
   {
     "id": "180",
     "title": "JSON FOR DEVOPS",
-    "cover": "covers/180.jpg",
+    "cover": "assets/pdf-covers/180.jpg",
     "pdf": "01. Programming & Development/JSON FOR DEVOPS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1442,7 +1442,7 @@
   {
     "id": "181",
     "title": "DEVOPS ENGINEER SURVIVAL GUIDE",
-    "cover": "covers/181.jpg",
+    "cover": "assets/pdf-covers/181.jpg",
     "pdf": "04. DevOps/DEVOPS ENGINEER SURVIVAL GUIDE.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1450,7 +1450,7 @@
   {
     "id": "182",
     "title": "POSTGRESQL FOR DEVOPS ENGINEER'S HANDBOOK",
-    "cover": "covers/182.jpg",
+    "cover": "assets/pdf-covers/182.jpg",
     "pdf": "11. Databases/POSTGRESQL FOR DEVOPS ENGINEER'S HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1458,7 +1458,7 @@
   {
     "id": "183",
     "title": "LINUX PROJECTS FOR BEGINNERS",
-    "cover": "covers/183.jpg",
+    "cover": "assets/pdf-covers/183.jpg",
     "pdf": "00. Linux/LINUX PROJECTS FOR BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1466,7 +1466,7 @@
   {
     "id": "184",
     "title": "GITHUB ACTIONS PRODUCTION HANDBOOK",
-    "cover": "covers/184.jpg",
+    "cover": "assets/pdf-covers/184.jpg",
     "pdf": "07. CI-CD & GitOps/GITHUB ACTIONS PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1474,7 +1474,7 @@
   {
     "id": "185",
     "title": "DYNATRACE PRODUCTION HANDBOOK",
-    "cover": "covers/185.jpg",
+    "cover": "assets/pdf-covers/185.jpg",
     "pdf": "13. Monitoring & Observability/DYNATRACE PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1482,7 +1482,7 @@
   {
     "id": "186",
     "title": "PYTHON FOR DEVOPS AUTOMATION",
-    "cover": "covers/186.jpg",
+    "cover": "assets/pdf-covers/186.jpg",
     "pdf": "01. Programming & Development/PYTHON FOR DEVOPS AUTOMATION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1490,7 +1490,7 @@
   {
     "id": "187",
     "title": "DEVOPS ENGINEER'S COMMAND LINE TOOLKIT - VERIQTA Series",
-    "cover": "covers/187.jpg",
+    "cover": "assets/pdf-covers/187.jpg",
     "pdf": "04. DevOps/DEVOPS ENGINEER'S COMMAND LINE TOOLKIT - VERIQTA Series.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1498,7 +1498,7 @@
   {
     "id": "188",
     "title": "TERRAGRUNT PRODUCTION HANDBOOK",
-    "cover": "covers/188.jpg",
+    "cover": "assets/pdf-covers/188.jpg",
     "pdf": "08. Infrastructure as Code/TERRAGRUNT PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1506,7 +1506,7 @@
   {
     "id": "189",
     "title": "TERRAFORM IN A NUTSHELL",
-    "cover": "covers/189.jpg",
+    "cover": "assets/pdf-covers/189.jpg",
     "pdf": "08. Infrastructure as Code/TERRAFORM IN A NUTSHELL.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1514,7 +1514,7 @@
   {
     "id": "190",
     "title": "FORWARD DEPLOYMENT ENGINEER",
-    "cover": "covers/190.jpg",
+    "cover": "assets/pdf-covers/190.jpg",
     "pdf": "25. Forward Deployed Engineering/FORWARD DEPLOYMENT ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1522,7 +1522,7 @@
   {
     "id": "191",
     "title": "DATADOG FOR SRES",
-    "cover": "covers/191.jpg",
+    "cover": "assets/pdf-covers/191.jpg",
     "pdf": "14. SRE & Reliability Engineering/DATADOG FOR SRES.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1530,7 +1530,7 @@
   {
     "id": "192",
     "title": "INFRASTRUCTURE ENGINEERS DAILY OPERATIONS",
-    "cover": "covers/192.jpg",
+    "cover": "assets/pdf-covers/192.jpg",
     "pdf": "12. Infrastructure Engineering/INFRASTRUCTURE ENGINEERS DAILY OPERATIONS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1538,7 +1538,7 @@
   {
     "id": "193",
     "title": "Packer for Cloud Engineers",
-    "cover": "covers/193.jpg",
+    "cover": "assets/pdf-covers/193.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -1546,7 +1546,7 @@
   {
     "id": "194",
     "title": "AWS SAA-C03 PROJECTS",
-    "cover": "covers/194.jpg",
+    "cover": "assets/pdf-covers/194.jpg",
     "pdf": "09. AWS/AWS SAA-C03 PROJECTS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1554,7 +1554,7 @@
   {
     "id": "195",
     "title": "HELM PRODUCTION HANDBOOK",
-    "cover": "covers/195.jpg",
+    "cover": "assets/pdf-covers/195.jpg",
     "pdf": "06. Kubernetes/HELM PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1562,7 +1562,7 @@
   {
     "id": "196",
     "title": "ELK Stack Production Handbook",
-    "cover": "covers/196.jpg",
+    "cover": "assets/pdf-covers/196.jpg",
     "pdf": "13. Monitoring & Observability/ELK STACK HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots",
@@ -1571,7 +1571,7 @@
   {
     "id": "197",
     "title": "CI/CD Interview Scenarios",
-    "cover": "covers/197.jpg",
+    "cover": "assets/pdf-covers/197.jpg",
     "pdf": "07. CI-CD & GitOps/CI-CD INTERVIEW SCENARIOS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots",
@@ -1580,7 +1580,7 @@
   {
     "id": "198",
     "title": "Platform Engineering for Beginners",
-    "cover": "covers/198.jpg",
+    "cover": "assets/pdf-covers/198.jpg",
     "pdf": "20. Platform Engineering/PLATFORM ENGINEERING FOR COMPLETE BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots",
@@ -1589,7 +1589,7 @@
   {
     "id": "199",
     "title": "DEVOPS PROJECTS THAT ACTUALLY LOOK LIKE PRODUCTION",
-    "cover": "covers/199.jpg",
+    "cover": "assets/pdf-covers/199.jpg",
     "pdf": "28. Hands-On Projects/DEVOPS PROJECTS THAT ACTUALLY LOOK LIKE PRODUCTION.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1597,7 +1597,7 @@
   {
     "id": "200",
     "title": "PRODUCTION INCIDENTS HANDBOOK",
-    "cover": "covers/200.jpg",
+    "cover": "assets/pdf-covers/200.jpg",
     "pdf": "15. Incident Response/PRODUCTION INCIDENTS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1605,7 +1605,7 @@
   {
     "id": "201",
     "title": "CHEF FOR COMPLETE BEGINNERS",
-    "cover": "covers/201.jpg",
+    "cover": "assets/pdf-covers/201.jpg",
     "pdf": "08. Infrastructure as Code/CHEF FOR COMPLETE BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1613,7 +1613,7 @@
   {
     "id": "202",
     "title": "INFRASTRUCTURE ENGINEERING FOR COMPLETE BEGINNERS",
-    "cover": "covers/202.jpg",
+    "cover": "assets/pdf-covers/202.jpg",
     "pdf": "12. Infrastructure Engineering/INFRASTRUCTURE ENGINEERING FOR COMPLETE BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1621,7 +1621,7 @@
   {
     "id": "203",
     "title": "KUBERNETES IN A NUTSHELL",
-    "cover": "covers/203.jpg",
+    "cover": "assets/pdf-covers/203.jpg",
     "pdf": "06. Kubernetes/KUBERNETES IN A NUTSHELL.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1629,7 +1629,7 @@
   {
     "id": "204",
     "title": "THE DEVOPS ENGINEER'S DAILY OPERATIONS HANDBOOK",
-    "cover": "covers/204.jpg",
+    "cover": "assets/pdf-covers/204.jpg",
     "pdf": "04. DevOps/THE DEVOPS ENGINEER'S DAILY OPERATIONS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1637,7 +1637,7 @@
   {
     "id": "205",
     "title": "TRIVY HANDBOOK",
-    "cover": "covers/205.jpg",
+    "cover": "assets/pdf-covers/205.jpg",
     "pdf": "18. DevSecOps & Identity/TRIVY HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1645,7 +1645,7 @@
   {
     "id": "206",
     "title": "SRE FOR COMPLETE BEGINNERS",
-    "cover": "covers/206.jpg",
+    "cover": "assets/pdf-covers/206.jpg",
     "pdf": "14. SRE & Reliability Engineering/SRE FOR COMPLETE BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1653,7 +1653,7 @@
   {
     "id": "207",
     "title": "DOCKER FOR COMPLETE BEGINNER",
-    "cover": "covers/207.jpg",
+    "cover": "assets/pdf-covers/207.jpg",
     "pdf": "05. Docker & Containers/DOCKER FOR COMPLETE BEGINNER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1661,7 +1661,7 @@
   {
     "id": "208",
     "title": "CICD PRODUCTION PROJECTS",
-    "cover": "covers/208.jpg",
+    "cover": "assets/pdf-covers/208.jpg",
     "pdf": "07. CI-CD & GitOps/CICD PRODUCTION PROJECTS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1669,7 +1669,7 @@
   {
     "id": "209",
     "title": "AKS HANDBOOK",
-    "cover": "covers/209.jpg",
+    "cover": "assets/pdf-covers/209.jpg",
     "pdf": "10. Azure & Google Cloud/AKS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1677,7 +1677,7 @@
   {
     "id": "210",
     "title": "AWS FOR COMPLETE BEGINNER",
-    "cover": "covers/210.jpg",
+    "cover": "assets/pdf-covers/210.jpg",
     "pdf": "09. AWS/AWS FOR COMPLETE BEGINNER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1685,7 +1685,7 @@
   {
     "id": "211",
     "title": "CIRCLE CI HANDBOOK",
-    "cover": "covers/211.jpg",
+    "cover": "assets/pdf-covers/211.jpg",
     "pdf": "07. CI-CD & GitOps/CIRCLE CI HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1693,7 +1693,7 @@
   {
     "id": "212",
     "title": "JFROG FOR COMPLETE BEGINNERS",
-    "cover": "covers/212.jpg",
+    "cover": "assets/pdf-covers/212.jpg",
     "pdf": "07. CI-CD & GitOps/JFROG FOR COMPLETE BEGINNERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1701,7 +1701,7 @@
   {
     "id": "213",
     "title": "LINUX FOR COMPLETE BEGINNER",
-    "cover": "covers/213.jpg",
+    "cover": "assets/pdf-covers/213.jpg",
     "pdf": "00. Linux/LINUX FOR COMPLETE BEGINNER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1709,7 +1709,7 @@
   {
     "id": "214",
     "title": "DEVOPS SYSTEM DESIGN HANDBOOK",
-    "cover": "covers/214.jpg",
+    "cover": "assets/pdf-covers/214.jpg",
     "pdf": "23. System Architecture & Design/DEVOPS SYSTEM DESIGN HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1717,7 +1717,7 @@
   {
     "id": "215",
     "title": "SONARQUBE HANDBOOK",
-    "cover": "covers/215.jpg",
+    "cover": "assets/pdf-covers/215.jpg",
     "pdf": "07. CI-CD & GitOps/SONARQUBE HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1725,7 +1725,7 @@
   {
     "id": "216",
     "title": "SHELL SCRIPTING FOR COMPLETE BEGINNER",
-    "cover": "covers/216.jpg",
+    "cover": "assets/pdf-covers/216.jpg",
     "pdf": "03. Shell Scripting/SHELL SCRIPTING FOR COMPLETE BEGINNER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1733,7 +1733,7 @@
   {
     "id": "217",
     "title": "KUBERNETES HOME LAB HANDBOOK",
-    "cover": "covers/217.jpg",
+    "cover": "assets/pdf-covers/217.jpg",
     "pdf": "06. Kubernetes/KUBERNETES HOME LAB HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1741,7 +1741,7 @@
   {
     "id": "218",
     "title": "JENKINS FOR BEGINNER HANDBOOK",
-    "cover": "covers/218.jpg",
+    "cover": "assets/pdf-covers/218.jpg",
     "pdf": "07. CI-CD & GitOps/JENKINS FOR BEGINNER HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1749,7 +1749,7 @@
   {
     "id": "219",
     "title": "DEVOPS PORTFOLIO HANDBOOK",
-    "cover": "covers/219.jpg",
+    "cover": "assets/pdf-covers/219.jpg",
     "pdf": "29. Engineering Portfolio & Home Labs/DEVOPS PORTFOLIO HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1757,7 +1757,7 @@
   {
     "id": "220",
     "title": "AMAZON EKS PRODUCTION HANDBOOK",
-    "cover": "covers/220.jpg",
+    "cover": "assets/pdf-covers/220.jpg",
     "pdf": "09. AWS/AMAZON EKS PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1765,7 +1765,7 @@
   {
     "id": "221",
     "title": "DOCKER COMPOSE PRODUCTION HANDBOOK",
-    "cover": "covers/221.jpg",
+    "cover": "assets/pdf-covers/221.jpg",
     "pdf": "05. Docker & Containers/DOCKER COMPOSE PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1773,7 +1773,7 @@
   {
     "id": "222",
     "title": "FIRST 90 DAYS AS A DEVOPS ENGINEER",
-    "cover": "covers/222.jpg",
+    "cover": "assets/pdf-covers/222.jpg",
     "pdf": "27. Career, Interviews & Certifications/FIRST 90 DAYS AS A DEVOPS ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1781,7 +1781,7 @@
   {
     "id": "223",
     "title": "DEVOPS HOMEMADE LAB",
-    "cover": "covers/223.jpg",
+    "cover": "assets/pdf-covers/223.jpg",
     "pdf": "28. Hands-On Projects/DEVOPS HOMEMADE LAB.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1789,7 +1789,7 @@
   {
     "id": "224",
     "title": "BLUE  & GREEN DEPLOYMENT",
-    "cover": "covers/224.jpg",
+    "cover": "assets/pdf-covers/224.jpg",
     "pdf": "07. CI-CD & GitOps/BLUE  & GREEN DEPLOYMENT.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1797,7 +1797,7 @@
   {
     "id": "225",
     "title": "DEVOPS ENGINEER PROFESSIONAL CERTIFICATION HANDBOOK",
-    "cover": "covers/225.jpg",
+    "cover": "assets/pdf-covers/225.jpg",
     "pdf": "27. Career, Interviews & Certifications/DEVOPS ENGINEER PROFESSIONAL CERTIFICATION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1805,7 +1805,7 @@
   {
     "id": "226",
     "title": "AWS JUNIOR ENGINEER HANDBOOK",
-    "cover": "covers/226.jpg",
+    "cover": "assets/pdf-covers/226.jpg",
     "pdf": "09. AWS/AWS JUNIOR ENGINEER HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1813,7 +1813,7 @@
   {
     "id": "227",
     "title": "KUBERNETES ULTIMATE CHEAT SHEET",
-    "cover": "covers/227.jpg",
+    "cover": "assets/pdf-covers/227.jpg",
     "pdf": "06. Kubernetes/KUBERNETES ULTIMATE CHEAT SHEET.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1821,7 +1821,7 @@
   {
     "id": "228",
     "title": "40 REAL-WORLD DEVOPS INTERVIEW HANDBOOK",
-    "cover": "covers/228.jpg",
+    "cover": "assets/pdf-covers/228.jpg",
     "pdf": "27. Career, Interviews & Certifications/40 REAL-WORLD DEVOPS INTERVIEW HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1829,7 +1829,7 @@
   {
     "id": "229",
     "title": "ARGO CD PRODUCTION HANDBOOK",
-    "cover": "covers/229.jpg",
+    "cover": "assets/pdf-covers/229.jpg",
     "pdf": "06. Kubernetes/ARGO CD PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1837,7 +1837,7 @@
   {
     "id": "230",
     "title": "ENTERPRISE AZURE DEVOPS",
-    "cover": "covers/230.jpg",
+    "cover": "assets/pdf-covers/230.jpg",
     "pdf": "10. Azure & Google Cloud/ENTERPRISE AZURE DEVOPS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1845,7 +1845,7 @@
   {
     "id": "231",
     "title": "CHAOS ENGINEERING",
-    "cover": "covers/231.jpg",
+    "cover": "assets/pdf-covers/231.jpg",
     "pdf": "14. SRE & Reliability Engineering/CHAOS ENGINEERING.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1853,7 +1853,7 @@
   {
     "id": "232",
     "title": "ULTIMATE LINUX CHEAT SHEET",
-    "cover": "covers/232.jpg",
+    "cover": "assets/pdf-covers/232.jpg",
     "pdf": "00. Linux/ULTIMATE LINUX CHEAT SHEET.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1861,7 +1861,7 @@
   {
     "id": "233",
     "title": "ADVANCED TERRAFORM PRODUCTION HANDBOOK",
-    "cover": "covers/233.jpg",
+    "cover": "assets/pdf-covers/233.jpg",
     "pdf": "08. Infrastructure as Code/ADVANCED TERRAFORM PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1869,7 +1869,7 @@
   {
     "id": "234",
     "title": "AWS MIGRATION HANDBOOK",
-    "cover": "covers/234.jpg",
+    "cover": "assets/pdf-covers/234.jpg",
     "pdf": "09. AWS/AWS MIGRATION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1877,7 +1877,7 @@
   {
     "id": "235",
     "title": "NGINX PRODUCTION HANDBOOK",
-    "cover": "covers/235.jpg",
+    "cover": "assets/pdf-covers/235.jpg",
     "pdf": "02. Networking/NGINX PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1885,7 +1885,7 @@
   {
     "id": "236",
     "title": "LINUX SECURITY HANDBOOK",
-    "cover": "covers/236.jpg",
+    "cover": "assets/pdf-covers/236.jpg",
     "pdf": "00. Linux/LINUX SECURITY HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1893,7 +1893,7 @@
   {
     "id": "237",
     "title": "JUNIOR KUBERNETES PROJECTS",
-    "cover": "covers/237.jpg",
+    "cover": "assets/pdf-covers/237.jpg",
     "pdf": "06. Kubernetes/JUNIOR KUBERNETES PROJECTS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1901,7 +1901,7 @@
   {
     "id": "238",
     "title": "YAML",
-    "cover": "covers/238.jpg",
+    "cover": "assets/pdf-covers/238.jpg",
     "pdf": "01. Programming & Development/YAML.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1909,7 +1909,7 @@
   {
     "id": "239",
     "title": "AWS NETWORKING",
-    "cover": "covers/239.jpg",
+    "cover": "assets/pdf-covers/239.jpg",
     "pdf": "09. AWS/AWS NETWORKING.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1917,7 +1917,7 @@
   {
     "id": "240",
     "title": "ISTIO SERVICE MESH HANDBOOK",
-    "cover": "covers/240.jpg",
+    "cover": "assets/pdf-covers/240.jpg",
     "pdf": "06. Kubernetes/ISTIO SERVICE MESH HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1925,7 +1925,7 @@
   {
     "id": "241",
     "title": "ON-CALL ENGINEER",
-    "cover": "covers/241.jpg",
+    "cover": "assets/pdf-covers/241.jpg",
     "pdf": "14. SRE & Reliability Engineering/ON-CALL ENGINEER.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1933,7 +1933,7 @@
   {
     "id": "242",
     "title": "PRACTICAL KUBERNETES HANDBOOK",
-    "cover": "covers/242.jpg",
+    "cover": "assets/pdf-covers/242.jpg",
     "pdf": "06. Kubernetes/PRACTICAL KUBERNETES HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1941,7 +1941,7 @@
   {
     "id": "243",
     "title": "DevOps Bible",
-    "cover": "covers/243.jpg",
+    "cover": "assets/pdf-covers/243.jpg",
     "pdf": "04. DevOps/DevOps Bible.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1949,7 +1949,7 @@
   {
     "id": "244",
     "title": "GOOGLE CLOUD PRODUCTION HANDBOOK",
-    "cover": "covers/244.jpg",
+    "cover": "assets/pdf-covers/244.jpg",
     "pdf": "10. Azure & Google Cloud/GOOGLE CLOUD PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1957,7 +1957,7 @@
   {
     "id": "245",
     "title": "AWS SECURITY HANDBOOK",
-    "cover": "covers/245.jpg",
+    "cover": "assets/pdf-covers/245.jpg",
     "pdf": "09. AWS/AWS SECURITY HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1965,7 +1965,7 @@
   {
     "id": "246",
     "title": "AWS BEGINNER PROJECTS",
-    "cover": "covers/246.jpg",
+    "cover": "assets/pdf-covers/246.jpg",
     "pdf": "09. AWS/AWS BEGINNER PROJECTS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1973,7 +1973,7 @@
   {
     "id": "247",
     "title": "AWS CLOUD PRACTITIONER HANDBOOK",
-    "cover": "covers/247.jpg",
+    "cover": "assets/pdf-covers/247.jpg",
     "pdf": "09. AWS/AWS CLOUD PRACTITIONER HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1981,7 +1981,7 @@
   {
     "id": "248",
     "title": "SRE HANDBOOK",
-    "cover": "covers/248.jpg",
+    "cover": "assets/pdf-covers/248.jpg",
     "pdf": "14. SRE & Reliability Engineering/SRE HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1989,7 +1989,7 @@
   {
     "id": "249",
     "title": "AWS TROUBLESHOOTING HANDBOOK",
-    "cover": "covers/249.jpg",
+    "cover": "assets/pdf-covers/249.jpg",
     "pdf": "09. AWS/AWS TROUBLESHOOTING HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -1997,7 +1997,7 @@
   {
     "id": "250",
     "title": "GIT & GITHUB PRODUCTION HANDBOOK",
-    "cover": "covers/250.jpg",
+    "cover": "assets/pdf-covers/250.jpg",
     "pdf": "01. Programming & Development/GIT & GITHUB PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2005,7 +2005,7 @@
   {
     "id": "251",
     "title": "MYSQL PRODUCTION HANDBOOK",
-    "cover": "covers/251.jpg",
+    "cover": "assets/pdf-covers/251.jpg",
     "pdf": "11. Databases/MYSQL PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2013,7 +2013,7 @@
   {
     "id": "252",
     "title": "ANSIBLE PRODUCTION HANDBOOK",
-    "cover": "covers/252.jpg",
+    "cover": "assets/pdf-covers/252.jpg",
     "pdf": "08. Infrastructure as Code/ANSIBLE PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2021,7 +2021,7 @@
   {
     "id": "253",
     "title": "KUBERNETES SECURITY",
-    "cover": "covers/253.jpg",
+    "cover": "assets/pdf-covers/253.jpg",
     "pdf": "06. Kubernetes/KUBERNETES SECURITY.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2029,7 +2029,7 @@
   {
     "id": "254",
     "title": "GITOPS PRODUCTION HANDBOOK",
-    "cover": "covers/254.jpg",
+    "cover": "assets/pdf-covers/254.jpg",
     "pdf": "07. CI-CD & GitOps/GITOPS PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2037,7 +2037,7 @@
   {
     "id": "255",
     "title": "GITLAB CI-CD HANDBOOK",
-    "cover": "covers/255.jpg",
+    "cover": "assets/pdf-covers/255.jpg",
     "pdf": "07. CI-CD & GitOps/GITLAB CI-CD HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots",
@@ -2046,7 +2046,7 @@
   {
     "id": "256",
     "title": "DEVOPS TROUBLESHOOTING HANDBOOK",
-    "cover": "covers/256.jpg",
+    "cover": "assets/pdf-covers/256.jpg",
     "pdf": "16. Troubleshooting/DEVOPS TROUBLESHOOTING HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2054,7 +2054,7 @@
   {
     "id": "257",
     "title": "AWS Solutions Architect Interview Handbook",
-    "cover": "covers/257.jpg",
+    "cover": "assets/pdf-covers/257.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -2062,7 +2062,7 @@
   {
     "id": "258",
     "title": "AWS SOLUTIONS ARCHITECT PRODUCTION HANDBOOK",
-    "cover": "covers/258.jpg",
+    "cover": "assets/pdf-covers/258.jpg",
     "pdf": "09. AWS/AWS SOLUTIONS ARCHITECT PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2070,7 +2070,7 @@
   {
     "id": "259",
     "title": "NETWORKING FOR DEVOPS HANDBOOK",
-    "cover": "covers/259.jpg",
+    "cover": "assets/pdf-covers/259.jpg",
     "pdf": "02. Networking/NETWORKING FOR DEVOPS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2078,7 +2078,7 @@
   {
     "id": "260",
     "title": "CKA MOCK EXAM",
-    "cover": "covers/260.jpg",
+    "cover": "assets/pdf-covers/260.jpg",
     "pdf": "06. Kubernetes/CKA MOCK EXAM.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2086,7 +2086,7 @@
   {
     "id": "261",
     "title": "CKA EXAM GUIDE HANDBOOK",
-    "cover": "covers/261.jpg",
+    "cover": "assets/pdf-covers/261.jpg",
     "pdf": "06. Kubernetes/CKA EXAM GUIDE HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2094,7 +2094,7 @@
   {
     "id": "262",
     "title": "KUBERNETES FROM SCRATCH",
-    "cover": "covers/262.jpg",
+    "cover": "assets/pdf-covers/262.jpg",
     "pdf": "06. Kubernetes/KUBERNETES FROM SCRATCH.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2102,7 +2102,7 @@
   {
     "id": "263",
     "title": "03. DevOps Interview VOLUME 3",
-    "cover": "covers/263.jpg",
+    "cover": "assets/pdf-covers/263.jpg",
     "pdf": "27. Career, Interviews & Certifications/03. DevOps Interview VOLUME 3.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2110,7 +2110,7 @@
   {
     "id": "264",
     "title": "200 LINUX INTERVIEW Q&A",
-    "cover": "covers/264.jpg",
+    "cover": "assets/pdf-covers/264.jpg",
     "pdf": "00. Linux/200 LINUX INTERVIEW Q&A.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2118,7 +2118,7 @@
   {
     "id": "265",
     "title": "01. KUBERNETES PRODUCTION INCIDENTS VOLUME 1",
-    "cover": "covers/265.jpg",
+    "cover": "assets/pdf-covers/265.jpg",
     "pdf": "06. Kubernetes/01. KUBERNETES PRODUCTION INCIDENTS VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2126,7 +2126,7 @@
   {
     "id": "266",
     "title": "02. SECTION 2 - LINUX PRODUCTION INTERVIEW",
-    "cover": "covers/266.jpg",
+    "cover": "assets/pdf-covers/266.jpg",
     "pdf": "00. Linux/02. SECTION 2 - LINUX PRODUCTION INTERVIEW.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2134,7 +2134,7 @@
   {
     "id": "267",
     "title": "DEVSECOPS PRODUCTION HANDBOOK",
-    "cover": "covers/267.jpg",
+    "cover": "assets/pdf-covers/267.jpg",
     "pdf": "18. DevSecOps & Identity/DEVSECOPS PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2142,7 +2142,7 @@
   {
     "id": "268",
     "title": "02. SHELL SCRIPTING VOLUME 2",
-    "cover": "covers/268.jpg",
+    "cover": "assets/pdf-covers/268.jpg",
     "pdf": "03. Shell Scripting/02. SHELL SCRIPTING VOLUME 2.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2150,7 +2150,7 @@
   {
     "id": "269",
     "title": "01. PYTHON FOR DEVOPS HANDBOOK VOLUME 1",
-    "cover": "covers/269.jpg",
+    "cover": "assets/pdf-covers/269.jpg",
     "pdf": "01. Programming & Development/01. PYTHON FOR DEVOPS HANDBOOK VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2158,7 +2158,7 @@
   {
     "id": "270",
     "title": "01. SECTION 1 - LINUX PRODUCTION INTERVIEW",
-    "cover": "covers/270.jpg",
+    "cover": "assets/pdf-covers/270.jpg",
     "pdf": "00. Linux/01. SECTION 1 - LINUX PRODUCTION INTERVIEW.pdf",
     "status": "available",
     "group": "screenshots",
@@ -2167,7 +2167,7 @@
   {
     "id": "271",
     "title": "KUBERNETES PRODUCTION OUTRAGE VOLUME 2",
-    "cover": "covers/271.jpg",
+    "cover": "assets/pdf-covers/271.jpg",
     "pdf": "06. Kubernetes/KUBERNETES PRODUCTION OUTRAGE VOLUME 2.pdf",
     "status": "available",
     "group": "screenshots",
@@ -2176,7 +2176,7 @@
   {
     "id": "272",
     "title": "KUBERNETES PRODUCTION OUTRAGE VOLUME 1",
-    "cover": "covers/272.jpg",
+    "cover": "assets/pdf-covers/272.jpg",
     "pdf": "06. Kubernetes/KUBERNETES PRODUCTION OUTRAGE VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2184,7 +2184,7 @@
   {
     "id": "273",
     "title": "02. DevOps Interview VOLUME 2",
-    "cover": "covers/273.jpg",
+    "cover": "assets/pdf-covers/273.jpg",
     "pdf": "27. Career, Interviews & Certifications/02. DevOps Interview VOLUME 2.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2192,7 +2192,7 @@
   {
     "id": "274",
     "title": "01. DevOps Interview",
-    "cover": "covers/274.jpg",
+    "cover": "assets/pdf-covers/274.jpg",
     "pdf": "27. Career, Interviews & Certifications/01. DevOps Interview.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2200,7 +2200,7 @@
   {
     "id": "275",
     "title": "01. Azure DevOps VOLUME 1",
-    "cover": "covers/275.jpg",
+    "cover": "assets/pdf-covers/275.jpg",
     "pdf": "10. Azure & Google Cloud/01. Azure DevOps VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2208,7 +2208,7 @@
   {
     "id": "276",
     "title": "HELM PRODUCTION HANDBOOK VOLUME 1",
-    "cover": "covers/276.jpg",
+    "cover": "assets/pdf-covers/276.jpg",
     "pdf": "06. Kubernetes/HELM PRODUCTION HANDBOOK VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2216,7 +2216,7 @@
   {
     "id": "277",
     "title": "VOLUME 3. TERRAFORM PRODUCTION HANDBOOK",
-    "cover": "covers/277.jpg",
+    "cover": "assets/pdf-covers/277.jpg",
     "pdf": "08. Infrastructure as Code/VOLUME 3. TERRAFORM PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2224,7 +2224,7 @@
   {
     "id": "278",
     "title": "VOLUME 2. TERRAFORM PRODUCTION HANDBOOK",
-    "cover": "covers/278.jpg",
+    "cover": "assets/pdf-covers/278.jpg",
     "pdf": "08. Infrastructure as Code/VOLUME 2. TERRAFORM PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots",
@@ -2233,7 +2233,7 @@
   {
     "id": "279",
     "title": "VOLUME 1. TERRAFORM PRODUCTION HANDBOOK",
-    "cover": "covers/279.jpg",
+    "cover": "assets/pdf-covers/279.jpg",
     "pdf": "08. Infrastructure as Code/VOLUME 1. TERRAFORM PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2241,7 +2241,7 @@
   {
     "id": "280",
     "title": "AWS PRODUCTION INCIDENTS VOLUME 3",
-    "cover": "covers/280.jpg",
+    "cover": "assets/pdf-covers/280.jpg",
     "pdf": "15. Incident Response/AWS PRODUCTION INCIDENTS VOLUME 3.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2249,7 +2249,7 @@
   {
     "id": "281",
     "title": "AWS PRODUCTION INCIDENTS VOLUME  2",
-    "cover": "covers/281.jpg",
+    "cover": "assets/pdf-covers/281.jpg",
     "pdf": "15. Incident Response/AWS PRODUCTION INCIDENTS VOLUME  2.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2257,7 +2257,7 @@
   {
     "id": "282",
     "title": "AWS PRODUCTION INCIDENT VOLUME 1",
-    "cover": "covers/282.jpg",
+    "cover": "assets/pdf-covers/282.jpg",
     "pdf": "15. Incident Response/AWS PRODUCTION INCIDENT VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2265,7 +2265,7 @@
   {
     "id": "283",
     "title": "SHELL SCRIPTING VOLUME 1",
-    "cover": "covers/283.jpg",
+    "cover": "assets/pdf-covers/283.jpg",
     "pdf": "03. Shell Scripting/SHELL SCRIPTING VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2273,7 +2273,7 @@
   {
     "id": "284",
     "title": "01. LINUX HANDBOOK",
-    "cover": "covers/284.jpg",
+    "cover": "assets/pdf-covers/284.jpg",
     "pdf": "00. Linux/01. LINUX HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2281,7 +2281,7 @@
   {
     "id": "285",
     "title": "03. Prometheus and Grafana volume 3",
-    "cover": "covers/285.jpg",
+    "cover": "assets/pdf-covers/285.jpg",
     "pdf": "13. Monitoring & Observability/03. Prometheus and Grafana volume 3.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2289,7 +2289,7 @@
   {
     "id": "286",
     "title": "02. Prometheus and Grafana Volume 2pdf_260717_122244",
-    "cover": "covers/286.jpg",
+    "cover": "assets/pdf-covers/286.jpg",
     "pdf": "13. Monitoring & Observability/02. Prometheus and Grafana Volume 2pdf_260717_122244.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2297,7 +2297,7 @@
   {
     "id": "287",
     "title": "01. Prometheus & Grafana Volume 1pdf",
-    "cover": "covers/287.jpg",
+    "cover": "assets/pdf-covers/287.jpg",
     "pdf": "13. Monitoring & Observability/01. Prometheus & Grafana Volume 1pdf.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2305,7 +2305,7 @@
   {
     "id": "288",
     "title": "03. Kubernetes Volume 3",
-    "cover": "covers/288.jpg",
+    "cover": "assets/pdf-covers/288.jpg",
     "pdf": "06. Kubernetes/03. Kubernetes Volume 3.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2313,7 +2313,7 @@
   {
     "id": "289",
     "title": "02. Kubernetes Volume 2",
-    "cover": "covers/289.jpg",
+    "cover": "assets/pdf-covers/289.jpg",
     "pdf": "06. Kubernetes/02. Kubernetes Volume 2.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2321,7 +2321,7 @@
   {
     "id": "290",
     "title": "01. Kubernetes Fundamentals Volume 1",
-    "cover": "covers/290.jpg",
+    "cover": "assets/pdf-covers/290.jpg",
     "pdf": "06. Kubernetes/01. Kubernetes Fundamentals Volume 1.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2329,7 +2329,7 @@
   {
     "id": "291",
     "title": "03. DOCKER INTERNALS VOLUME 3",
-    "cover": "covers/291.jpg",
+    "cover": "assets/pdf-covers/291.jpg",
     "pdf": "05. Docker & Containers/03. DOCKER INTERNALS VOLUME 3.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2337,7 +2337,7 @@
   {
     "id": "292",
     "title": "02. DOCKER HANDBOOK VOLUME 2",
-    "cover": "covers/292.jpg",
+    "cover": "assets/pdf-covers/292.jpg",
     "pdf": "05. Docker & Containers/02. DOCKER HANDBOOK VOLUME 2.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2345,7 +2345,7 @@
   {
     "id": "293",
     "title": "01. DOCKER HANDBOOK VOLUME 1",
-    "cover": "covers/293.jpg",
+    "cover": "assets/pdf-covers/293.jpg",
     "pdf": "05. Docker & Containers/01. DOCKER HANDBOOK VOLUME 1.pdf",
     "status": "available",
     "group": "screenshots",
@@ -2354,7 +2354,7 @@
   {
     "id": "294",
     "title": "DevOps, Cloud, Platform, SRE & Cloud Security Roles and Certifications",
-    "cover": "covers/294.jpg",
+    "cover": "assets/pdf-covers/294.jpg",
     "pdf": null,
     "status": "reference-image",
     "group": "screenshots"
@@ -2362,7 +2362,7 @@
   {
     "id": "295",
     "title": "02. The Deployment That Broke Production - VERIQTA Series",
-    "cover": "covers/295.jpg",
+    "cover": "assets/pdf-covers/295.jpg",
     "pdf": "15. Incident Response/02. The Deployment That Broke Production - VERIQTA Series.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2370,7 +2370,7 @@
   {
     "id": "296",
     "title": "01. The Kubernetes Cluster That Went Down at 2 AM - VERIQTA series",
-    "cover": "covers/296.jpg",
+    "cover": "assets/pdf-covers/296.jpg",
     "pdf": "15. Incident Response/01. The Kubernetes Cluster That Went Down at 2 AM - VERIQTA series.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2378,7 +2378,7 @@
   {
     "id": "297",
     "title": "LINUX PRODUCTION HANDBOOK",
-    "cover": "covers/297.jpg",
+    "cover": "assets/pdf-covers/297.jpg",
     "pdf": "00. Linux/LINUX PRODUCTION HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2386,7 +2386,7 @@
   {
     "id": "298",
     "title": "Platform Engineering Handbook",
-    "cover": "covers/298.jpg",
+    "cover": "assets/pdf-covers/298.jpg",
     "pdf": null,
     "status": "missing",
     "group": "screenshots"
@@ -2394,7 +2394,7 @@
   {
     "id": "299",
     "title": "01. AWS Interview Handbook",
-    "cover": "covers/299.jpg",
+    "cover": "assets/pdf-covers/299.jpg",
     "pdf": "09. AWS/01. AWS Interview Handbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2402,7 +2402,7 @@
   {
     "id": "300",
     "title": "AI FOR DEVOPS ENGINEERS",
-    "cover": "covers/300.jpg",
+    "cover": "assets/pdf-covers/300.jpg",
     "pdf": "21. AI for DevOps/AI FOR DEVOPS ENGINEERS.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2410,7 +2410,7 @@
   {
     "id": "301",
     "title": "DevOps Engineer Roadmap",
-    "cover": "covers/301.jpg",
+    "cover": "assets/pdf-covers/301.jpg",
     "pdf": null,
     "status": "reference-image",
     "group": "screenshots"
@@ -2418,7 +2418,7 @@
   {
     "id": "302",
     "title": "50 Most Used Linux Commands for DevOps / Cloud Engineers",
-    "cover": "covers/302.jpg",
+    "cover": "assets/pdf-covers/302.jpg",
     "pdf": null,
     "status": "reference-image",
     "group": "screenshots"
@@ -2426,7 +2426,7 @@
   {
     "id": "303",
     "title": "AWS INTERVIEW HANDBOOK",
-    "cover": "covers/303.jpg",
+    "cover": "assets/pdf-covers/303.jpg",
     "pdf": "09. AWS/AWS INTERVIEW HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2434,7 +2434,7 @@
   {
     "id": "304",
     "title": "Kubernetes Handbook",
-    "cover": "covers/304.jpg",
+    "cover": "assets/pdf-covers/304.jpg",
     "pdf": "06. Kubernetes/Kubernetes Handbook.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2442,7 +2442,7 @@
   {
     "id": "305",
     "title": "01. JENKINS HANDBOOK",
-    "cover": "covers/305.jpg",
+    "cover": "assets/pdf-covers/305.jpg",
     "pdf": "07. CI-CD & GitOps/01. JENKINS HANDBOOK.pdf",
     "status": "available",
     "group": "screenshots"
@@ -2450,7 +2450,7 @@
   {
     "id": "306",
     "title": "Learn Linux from Beginner to Advanced — Part 1",
-    "cover": "covers/306.jpg",
+    "cover": "assets/pdf-covers/306.jpg",
     "pdf": null,
     "status": "reference-image",
     "group": "screenshots"
@@ -2458,7 +2458,7 @@
   {
     "id": "extra-01",
     "title": "03. The Database That Took Down Production - VERIQTA Series",
-    "cover": "covers/extra-01.jpg",
+    "cover": "assets/pdf-covers/extra-01.jpg",
     "pdf": "15. Incident Response/03. The Database That Took Down Production - VERIQTA Series.pdf",
     "status": "available",
     "group": "additional"
@@ -2466,7 +2466,7 @@
   {
     "id": "extra-02",
     "title": "04. From Chaos to Control - VERIQTA Series",
-    "cover": "covers/extra-02.jpg",
+    "cover": "assets/pdf-covers/extra-02.jpg",
     "pdf": "15. Incident Response/04. From Chaos to Control - VERIQTA Series.pdf",
     "status": "available",
     "group": "additional"
@@ -2474,7 +2474,7 @@
   {
     "id": "extra-03",
     "title": "05. The AWS Bill That Exploded Overnight - VERIQTA Series",
-    "cover": "covers/extra-03.jpg",
+    "cover": "assets/pdf-covers/extra-03.jpg",
     "pdf": "15. Incident Response/05. The AWS Bill That Exploded Overnight - VERIQTA Series.pdf",
     "status": "available",
     "group": "additional"
@@ -2482,7 +2482,7 @@
   {
     "id": "extra-04",
     "title": "06. The Container That Kept Crashing - VERIQTA Series",
-    "cover": "covers/extra-04.jpg",
+    "cover": "assets/pdf-covers/extra-04.jpg",
     "pdf": "15. Incident Response/06. The Container That Kept Crashing - VERIQTA Series.pdf",
     "status": "available",
     "group": "additional"
