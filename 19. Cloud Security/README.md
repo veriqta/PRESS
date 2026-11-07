@@ -1,6 +1,6 @@
 # Cloud Security
 
-[Library home](../README.md) · [PDF catalog](../CATALOG.md)
+[Library home](../README.md)
 
 Browse the publications below. Open a title to preview it on GitHub, then use the download control to save a copy.
 
