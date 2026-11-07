@@ -21,3 +21,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [What Senior DevOps Interviews Actually Test 40 Real Scenarios](What%20Senior%20DevOps%20Interviews%20Actually%20Test%2040%20Real%20Scenarios.pdf)
 - [Your DevOps Resume The 2026 Interview Playbook](Your%20DevOps%20Resume%20The%202026%20Interview%20Playbook.pdf)
 - [Your First Month as a DevOps Engineer A Week-by-Week Plan](Your%20First%20Month%20as%20a%20DevOps%20Engineer%20A%20Week-by-Week%20Plan.pdf)
+- [WHY YOUR DEVOPS INTERVIEW KEEP FAILING](WHY%20YOUR%20DEVOPS%20INTERVIEW%20KEEP%20FAILING.pdf)

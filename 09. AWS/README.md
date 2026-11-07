@@ -29,3 +29,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [AWS TROUBLESHOOTING HANDBOOK](AWS%20TROUBLESHOOTING%20HANDBOOK.pdf)
 - [Build a Three-Tier App on AWS The Project That Gets You Hired](Build%20a%20Three-Tier%20App%20on%20AWS%20The%20Project%20That%20Gets%20You%20Hired.pdf)
 - [From Zero to Deployed Your First App on AWS](From%20Zero%20to%20Deployed%20Your%20First%20App%20on%20AWS.pdf)
+- [AWS SAA CO3 INTERVIEW HANDBOOK](AWS%20SAA%20CO3%20INTERVIEW%20HANDBOOK.pdf)

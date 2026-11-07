@@ -8,3 +8,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [DEVOPS PORTFOLIO HANDBOOK](DEVOPS%20PORTFOLIO%20HANDBOOK.pdf)
 - [How to Set Up Your DevOps Home Lab on a Budget](How%20to%20Set%20Up%20Your%20DevOps%20Home%20Lab%20on%20a%20Budget.pdf)
 - [The DevOps Side Project Playbook 10 Ideas That Get You Hired](The%20DevOps%20Side%20Project%20Playbook%2010%20Ideas%20That%20Get%20You%20Hired.pdf)
+- [From Localhost to Production Deploy, Secure, Monitor, and Troubleshoot a Real App (1)](From%20Localhost%20to%20Production%20Deploy%2C%20Secure%2C%20Monitor%2C%20and%20Troubleshoot%20a%20Real%20App%20%281%29.pdf)
