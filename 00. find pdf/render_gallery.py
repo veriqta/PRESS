@@ -9,11 +9,11 @@ folder = Path(__file__).resolve().parent
 manifest = json.loads((folder / "manifest.json").read_text())
 
 def grid(items):
- out=['<table>']
+ out=['<table width="100%">']
  for i in range(0,len(items),3):
   out.append('<tr>')
   for x in items[i:i+3]:
-   title=html.escape(x['title'],quote=True);img=f'<img src="{quote(x["cover"])}" alt="{title}" width="250" />'
+   title=html.escape(x['title'],quote=True);img=f'<img src="{quote(x["cover"])}" alt="{title}" width="100%" />'
    if x['pdf']:
     link=quote('../'+x['pdf']);content=f'<a href="{link}">{img}</a><br /><a href="{link}">{title}</a>'
    else:
