@@ -1,5 +1,7 @@
 **[Official VERIQTA website — veriqta.com](https://veriqta.com/)**
 
+**[Buy books — www.veriqtapress.com](https://www.veriqtapress.com/)**
+
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%"><a href="13.%20Monitoring%20%26%20Observability/PROMETHEUS%20AND%20GRAFANA.pdf"><img src="assets/pdf-covers/001.jpg" alt="Prometheus and Grafana Crash Course" title="Prometheus and Grafana Crash Course" width="100%" /></a></td>
