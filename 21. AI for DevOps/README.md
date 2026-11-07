@@ -1,0 +1,10 @@
+# AI for DevOps
+
+[Library home](../README.md) · [PDF catalog](../CATALOG.md)
+
+Browse the publications below. Open a title to preview it on GitHub, then use the download control to save a copy.
+
+- [AI for DevOps Engineers The Practical Handbook](AI%20for%20DevOps%20Engineers%20The%20Practical%20Handbook.pdf)
+- [AI FOR DEVOPS ENGINEERS](AI%20FOR%20DEVOPS%20ENGINEERS.pdf)
+- [AI-POWERED DEVOPS PROJECTS HANDBOOK](AI-POWERED%20DEVOPS%20PROJECTS%20HANDBOOK.pdf)
+- [Your First AI Agent on AWS Build One Step by Step](Your%20First%20AI%20Agent%20on%20AWS%20Build%20One%20Step%20by%20Step.pdf)

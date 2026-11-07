@@ -37,72 +37,72 @@ Choose a subject to explore its publications and practical resources.
 
 | Topic | What you will find |
 | --- | --- |
-| [Linux](linux/) | Administration, commands, permissions, internals and labs. |
-| [Programming & development](programming-and-development/) | Python, Go, Git, APIs, YAML and developer tools. |
-| [Networking](networking/) | Protocols, NGINX, traffic analysis and network operations. |
-| [Shell scripting](shell-scripting/) | Bash fundamentals and practical automation. |
+| [Linux](00.%20Linux) | Administration, commands, permissions, internals and labs. |
+| [Programming & development](01.%20Programming%20%26%20Development) | Python, Go, Git, APIs, YAML and developer tools. |
+| [Networking](02.%20Networking) | Protocols, NGINX, traffic analysis and network operations. |
+| [Shell scripting](03.%20Shell%20Scripting) | Bash fundamentals and practical automation. |
 
 ### Cloud, containers & delivery
 
 | Topic | What you will find |
 | --- | --- |
-| [AWS](aws/) | AWS services, architecture, projects and operations. |
-| [Azure & Google Cloud](azure-and-google-cloud/) | Azure, AKS, GCP and cloud fundamentals. |
-| [Containers](containers/) | Docker, Compose, Podman and container internals. |
-| [Kubernetes](kubernetes/) | Clusters, Helm, Argo CD, service mesh and certification practice. |
-| [CI/CD](ci-cd/) | Jenkins, GitHub Actions, GitLab and deployment pipelines. |
-| [Infrastructure as code](infrastructure-as-code/) | Infrastructure provisioning, configuration management and repeatable automation. |
-| [DevOps](devops/) | General handbooks, daily operations, commands and FinOps. |
+| [AWS](09.%20AWS) | AWS services, architecture, projects and operations. |
+| [Azure & Google Cloud](10.%20Azure%20%26%20Google%20Cloud) | Azure, AKS, GCP and cloud fundamentals. |
+| [Containers](05.%20Docker%20%26%20Containers) | Docker, Compose, Podman and container internals. |
+| [Kubernetes](06.%20Kubernetes) | Clusters, Helm, Argo CD, service mesh and certification practice. |
+| [CI/CD](07.%20CI-CD%20%26%20GitOps) | Jenkins, GitHub Actions, GitLab and deployment pipelines. |
+| [Infrastructure as code](08.%20Infrastructure%20as%20Code) | Infrastructure provisioning, configuration management and repeatable automation. |
+| [DevOps](04.%20DevOps) | General handbooks, daily operations, commands and FinOps. |
 
 ### Operate, secure & troubleshoot
 
 | Topic | What you will find |
 | --- | --- |
-| [Incident response](incident-response/) | Incident playbooks, case studies and production failures. |
-| [Site reliability engineering](site-reliability-engineering/) | SRE practices, on-call work, chaos engineering and reliability. |
-| [Monitoring & observability](monitoring-and-observability/) | Prometheus, Grafana, ELK, Dynatrace and New Relic. |
-| [Troubleshooting](troubleshooting/) | Diagnostic playbooks, log reading and common delivery failures. |
-| [Production engineering](production-engineering/) | Production readiness, operational ownership and service continuity. |
-| [Databases](databases/) | PostgreSQL, MySQL and Redis operations. |
-| [DevSecOps & identity](devsecops-and-identity/) | Pipeline security, Trivy and DevSecOps practices. |
-| [Cloud security](cloud-security/) | AWS security labs, controls and misconfigurations. |
+| [Incident response](15.%20Incident%20Response) | Incident playbooks, case studies and production failures. |
+| [Site reliability engineering](14.%20SRE%20%26%20Reliability%20Engineering) | SRE practices, on-call work, chaos engineering and reliability. |
+| [Monitoring & observability](13.%20Monitoring%20%26%20Observability) | Prometheus, Grafana, ELK, Dynatrace and New Relic. |
+| [Troubleshooting](16.%20Troubleshooting) | Diagnostic playbooks, log reading and common delivery failures. |
+| [Production engineering](17.%20Production%20Engineering) | Production readiness, operational ownership and service continuity. |
+| [Databases](11.%20Databases) | PostgreSQL, MySQL and Redis operations. |
+| [DevSecOps & identity](18.%20DevSecOps%20%26%20Identity) | Pipeline security, Trivy and DevSecOps practices. |
+| [Cloud security](19.%20Cloud%20Security) | AWS security labs, controls and misconfigurations. |
 
 ### Specialist engineering
 
 | Topic | What you will find |
 | --- | --- |
-| [Platform engineering](platform-engineering/) | Developer platforms, self-service infrastructure and shared engineering capabilities. |
-| [Infrastructure engineering](infrastructure-engineering/) | Infrastructure operations, outages, Kafka and RabbitMQ. |
-| [AI for DevOps](ai-for-devops/) | AI-assisted operations, agents and projects. |
-| [AI & GPU infrastructure](ai-and-gpu-infrastructure/) | GPU platforms, AI infrastructure and MLOps. |
-| [Engineering internals](engineering-internals/) | System internals, performance and deeper engineering mechanisms. |
-| [Architecture & design](architecture-and-design/) | System design, production architecture and diagrams. |
-| [Forward-deployed engineering](forward-deployed-engineering/) | Engineering delivery in customer environments. |
-| [Staff & principal engineering](staff-and-principal-engineering/) | Staff-level engineering responsibilities and judgement. |
+| [Platform engineering](20.%20Platform%20Engineering) | Developer platforms, self-service infrastructure and shared engineering capabilities. |
+| [Infrastructure engineering](12.%20Infrastructure%20Engineering) | Infrastructure operations, outages, Kafka and RabbitMQ. |
+| [AI for DevOps](21.%20AI%20for%20DevOps) | AI-assisted operations, agents and projects. |
+| [AI & GPU infrastructure](22.%20AI%20Infrastructure%20%26%20MLOps) | GPU platforms, AI infrastructure and MLOps. |
+| [Engineering internals](24.%20Advanced%20Engineering%20Internals) | System internals, performance and deeper engineering mechanisms. |
+| [Architecture & design](23.%20System%20Architecture%20%26%20Design) | System design, production architecture and diagrams. |
+| [Forward-deployed engineering](25.%20Forward%20Deployed%20Engineering) | Engineering delivery in customer environments. |
+| [Staff & principal engineering](26.%20Staff%20%26%20Principal%20Engineering) | Staff-level engineering responsibilities and judgement. |
 
 ### Career & practical work
 
 | Topic | What you will find |
 | --- | --- |
-| [Career & certifications](career-and-certifications/) | Roadmaps, interviews, resumes, certification and first-month guidance. |
-| [Hands-on projects](hands-on-projects/) | DevOps, cloud, Kubernetes and infrastructure builds. |
-| [Engineering portfolio](engineering-portfolio/) | Home labs, portfolio guidance and project ideas. |
+| [Career & certifications](27.%20Career%2C%20Interviews%20%26%20Certifications) | Roadmaps, interviews, resumes, certification and first-month guidance. |
+| [Hands-on projects](28.%20Hands-On%20Projects) | DevOps, cloud, Kubernetes and infrastructure builds. |
+| [Engineering portfolio](29.%20Engineering%20Portfolio%20%26%20Home%20Labs) | Home labs, portfolio guidance and project ideas. |
 
 ## Choose a learning path
 
-- **New to engineering:** [Linux](linux/) → [Networking](networking/) → [Programming](programming-and-development/) → [Shell scripting](shell-scripting/).
-- **Build and deliver applications:** [Containers](containers/) → [CI/CD](ci-cd/) → [AWS](aws/) or [Azure & Google Cloud](azure-and-google-cloud/) → [Infrastructure as code](infrastructure-as-code/) → [Kubernetes](kubernetes/).
-- **Operate production systems:** [Monitoring](monitoring-and-observability/) → [Troubleshooting](troubleshooting/) → [Incident response](incident-response/) → [SRE](site-reliability-engineering/).
-- **Prepare for a role:** [Career & certifications](career-and-certifications/) → [Hands-on projects](hands-on-projects/) → [Engineering portfolio](engineering-portfolio/).
+- **New to engineering:** [Linux](00.%20Linux) → [Networking](02.%20Networking) → [Programming](01.%20Programming%20%26%20Development) → [Shell scripting](03.%20Shell%20Scripting).
+- **Build and deliver applications:** [Containers](05.%20Docker%20%26%20Containers) → [CI/CD](07.%20CI-CD%20%26%20GitOps) → [AWS](09.%20AWS) or [Azure & Google Cloud](10.%20Azure%20%26%20Google%20Cloud) → [Infrastructure as code](08.%20Infrastructure%20as%20Code) → [Kubernetes](06.%20Kubernetes).
+- **Operate production systems:** [Monitoring](13.%20Monitoring%20%26%20Observability) → [Troubleshooting](16.%20Troubleshooting) → [Incident response](15.%20Incident%20Response) → [SRE](14.%20SRE%20%26%20Reliability%20Engineering).
+- **Prepare for a role:** [Career & certifications](27.%20Career%2C%20Interviews%20%26%20Certifications) → [Hands-on projects](28.%20Hands-On%20Projects) → [Engineering portfolio](29.%20Engineering%20Portfolio%20%26%20Home%20Labs).
 
 These are suggested routes; choose documents that fit your goals and experience. Practise commands in an isolated lab, check version-specific details against official documentation, and record what you tested and learned.
 
 ## How the library is organized
 
 - Topic folders hold publications about a particular technology or practice. Tool-specific interview guides and projects stay with their technology, such as AWS or Kubernetes.
-- General career preparation lives in `career-and-certifications/`; cross-topic builds live in `hands-on-projects/`; portfolio presentation and home-lab guidance live in `engineering-portfolio/`.
-- Incident case studies and response playbooks live in `incident-response/`. General diagnostic guides live in `troubleshooting/`.
-- Infrastructure-as-code publications are grouped into [Terraform & Terragrunt](infrastructure-as-code/terraform-and-terragrunt/), [Ansible](infrastructure-as-code/ansible/) and [Chef](infrastructure-as-code/chef/).
+- General career preparation lives in `27. Career, Interviews & Certifications/`; cross-topic builds live in `28. Hands-On Projects/`; portfolio presentation and home-lab guidance live in `29. Engineering Portfolio & Home Labs/`.
+- Incident case studies and response playbooks live in `15. Incident Response/`. General diagnostic guides live in `16. Troubleshooting/`.
+- Infrastructure-as-code publications cover Terraform, Terragrunt, Ansible and Chef in the [Infrastructure as Code](08.%20Infrastructure%20as%20Code/) folder.
 
 ## Contribute
 
