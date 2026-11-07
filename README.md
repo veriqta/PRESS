@@ -1,109 +1,121 @@
-
-
 <div align="center">
 
 ![VERIQTA Press](https://github.com/veriqta/veriqta/blob/main/veriqta-press-banner.svg)
 
 # VERIQTA Press
 
-**Engineering PDFs, notebooks and practical learning resources.**
+**Free engineering PDFs and practical learning resources.**
 
-[Browse all topics](#browse-the-collection) · [Choose a starting point](#choose-your-starting-point) · [Use the resources](#make-the-most-of-the-resources)
+[Browse topics](#browse-topics) · [Search every PDF](CATALOG.md) · [Start learning](#choose-a-learning-path) · [Contribute](#contribute)
 
 </div>
 
-A VERIQTA resource. **[Official VERIQTA website](https://veriqta.com/)** — engineering education, technical publishing and professional assessment.
+Explore **292 PDFs across 30 topics**, from Linux fundamentals to cloud infrastructure, DevOps, security and production engineering. Each topic folder has a README linking to its PDFs. The [complete catalog](CATALOG.md) lists every title in one searchable page.
 
-VERIQTA Press is the publishing home for VERIQTA’s engineering books, notebooks and learning resources. This repository brings together its free engineering PDFs and supporting material across Linux, programming, networking, cloud, DevOps, SRE, security, platform engineering and production systems.
+Published by [VERIQTA](https://veriqta.com/), covering engineering education, technical publishing and professional assessment.
 
-Whether you are learning your first Linux commands, strengthening your cloud skills or exploring advanced engineering decisions, you can choose a subject and find resources relevant to your goals. Read to understand the concepts, connect them to practical work and develop explanations you can defend with evidence.
+## Find and download a PDF
 
-## Browse the collection
+1. Choose a topic below, or open the [complete catalog](CATALOG.md) and use **Ctrl+F** / **Command+F** to search titles.
+2. Follow a PDF link to preview it on GitHub. If a preview is unavailable, use the file's download control.
+3. Download the PDF to read locally. For an offline copy of the entire collection, use GitHub's **Code → Download ZIP**, or clone it:
 
-Choose a topic to open its folder and explore the available PDFs and supporting resources.
+```sh
+git clone https://github.com/veriqta/VERIQTA-PRESS.git
+cd VERIQTA-PRESS
+```
 
-| Topic | What you can explore |
-| --- | --- |
-| [Linux](./00.%20LINUX) | Linux foundations, administration, permissions, processes, services and troubleshooting. |
-| [Programming & Development](./01.%20Programming%20%26%20Development) | Programming concepts, development practices and automation skills. |
-| [Networking](./02.%20NETWORKING) | Network fundamentals, protocols, connectivity and diagnostic reasoning. |
-| [Kubernetes](./03.%20Kubernetes) | Cluster concepts, workloads, networking, storage and operational practice. |
-| [AWS](./04.%20AWS) | AWS services, cloud infrastructure and operational learning. |
-| [Docker](./05.%20DOCKER) | Images, containers, application packaging and container operations. |
-| [DevOps](./06.%20DevOps) | Software delivery, automation and the engineering practices connecting development with operations. |
-| [CI/CD](./07.%20CI-CD) | Builds, tests, pipelines, releases and deployment workflows. |
-| [IaC & Configuration Management](./08.%20IAC%20%26%20CONFIGURATION%20MANAGEMENT) | Infrastructure definitions, repeatable configuration and change management. |
-| [Incidents](./09.%20INCIDENTS) | Failure scenarios, investigation and operational decision-making. |
-| [Databases](./10.%20DATABASES) | Database concepts, administration and operational considerations. |
-| [Shell Scripting](./11.%20SHELL%20SCRIPTING) | Command-line automation, script behaviour and reliable execution. |
-| [Azure & Google Cloud](./12.%20AZURE%20%26%20GOOGLE%20CLOUD) | Cloud services, infrastructure and administration across Azure and Google Cloud. |
-| [SRE, Reliability & Incident Management](./13.%20SRE%2C%20RELIABILITY%20%26%20INCIDENT%20MANAGEMENT) | Service reliability, operational responsibility and incident management. |
-| [Monitoring & Observability](./14.%20Monitoring%20%26%20Observability) | Metrics, logs, traces, alerting and understanding service behaviour. |
-| [DevSecOps, Security & Identity](./15.%20DEVSECOPS%2C%20SECURITY%20%26%20IDENTITY) | Security in engineering workflows, access management and identity. |
-| [AI for DevOps](./16.%20AI%20FOR%20DEVOPS) | AI-assisted engineering workflows and evaluating their operational usefulness. |
-| [Platform Engineering](./17.%20PLATFORM%20ENGINEERING) | Developer platforms, self-service and shared engineering capabilities. |
-| [FDE](./18.%20FDE) | Forward-deployed engineering and connecting technical delivery with customer needs. |
-| [Infrastructure Engineering](./19.%20INFRASTRUCTURE%20ENGINEERING) | Compute, networking, storage and the systems supporting applications. |
-| [Career, Interviews & Certifications](./20.%20CAREER%2C%20INTERVIEWS%20%26%20CERTIFICATIONS) | Career preparation, technical interviews and certification learning. |
-| [Cloud Security Engineering](./21.%20Cloud%20Security%20Engineering) | Cloud access, security controls and infrastructure protection. |
-| [AI Infrastructure & GPU Platform Engineering](./22.%20AI%20Infrastructure%20%26%20GPU%20Platform%20Engineering) | Infrastructure and platform considerations for AI and GPU workloads. |
-| [Advanced Engineering Internals](./23.%20Advanced%20Engineering%20Internals) | Deeper exploration of system behaviour and engineering mechanisms. |
-| [Staff & Principal Engineering](./24.%20Staff%20%26%20Principal%20Engineering) | Engineering judgement, architectural decisions and wider technical responsibility. |
-| [Real-World Engineering Projects](./25.%20REAL-WORLD%20ENGINEERING%20PROJECTS) | Applied engineering builds that connect concepts with practical implementation. |
-| [Engineering Portfolio](./26.%20Engineering%20Portfolio) | Presenting projects, technical evidence and engineering decisions. |
-| [Production Engineering](./27.%20PRODUCTION%20ENGINEERING) | Operating systems and services with attention to reliability, risk and recovery. |
+The collection contains large binary files; cloning or downloading the whole repository takes more space and time than saving an individual PDF. No software installation or build step is needed to read the documents.
 
-## Choose your starting point
+## Browse topics
 
-### Build your foundations
+Folders use descriptive lowercase names with hyphens. PDF publication filenames and volume numbers are preserved. Counts below refer to PDFs, including any distinct files with similar titles.
 
-Start with [Linux](./00.%20LINUX), [Networking](./02.%20NETWORKING), [Programming & Development](./01.%20Programming%20%26%20Development) and [Shell Scripting](./11.%20SHELL%20SCRIPTING). Focus on understanding commands, system behaviour and the reasons behind common engineering tasks.
+### Foundations
 
-### Develop delivery and cloud skills
+| Topic | PDFs | What you will find |
+| --- | ---: | --- |
+| [Linux](linux/) | 26 | Administration, commands, permissions, internals and labs. |
+| [Programming & development](programming-and-development/) | 16 | Python, Go, Git, APIs, YAML and developer tools. |
+| [Networking](networking/) | 14 | Protocols, NGINX, traffic analysis and network operations. |
+| [Shell scripting](shell-scripting/) | 4 | Bash fundamentals and practical automation. |
 
-Explore [DevOps](./06.%20DevOps), [CI/CD](./07.%20CI-CD), [Docker](./05.%20DOCKER), [Kubernetes](./03.%20Kubernetes) and [IaC & Configuration Management](./08.%20IAC%20%26%20CONFIGURATION%20MANAGEMENT). Connect these subjects with [AWS](./04.%20AWS) or [Azure & Google Cloud](./12.%20AZURE%20%26%20GOOGLE%20CLOUD) as your cloud focus.
+### Cloud, containers & delivery
 
-### Strengthen your operational judgement
+| Topic | PDFs | What you will find |
+| --- | ---: | --- |
+| [AWS](aws/) | 22 | AWS services, architecture, projects and operations. |
+| [Azure & Google Cloud](azure-and-google-cloud/) | 9 | Azure, AKS, GCP and cloud fundamentals. |
+| [Containers](containers/) | 11 | Docker, Compose, Podman and container internals. |
+| [Kubernetes](kubernetes/) | 35 | Clusters, Helm, Argo CD, service mesh and certification practice. |
+| [CI/CD](ci-cd/) | 24 | Jenkins, GitHub Actions, GitLab and deployment pipelines. |
+| [Infrastructure as code](infrastructure-as-code/) | 17 | Separate Terraform/Terragrunt, Ansible and Chef folders. |
+| [DevOps](devops/) | 13 | General handbooks, daily operations, commands and FinOps. |
 
-Use [Monitoring & Observability](./14.%20Monitoring%20%26%20Observability), [Incidents](./09.%20INCIDENTS), [SRE, Reliability & Incident Management](./13.%20SRE%2C%20RELIABILITY%20%26%20INCIDENT%20MANAGEMENT) and [Production Engineering](./27.%20PRODUCTION%20ENGINEERING) to explore how systems behave under failure and change.
+### Operate, secure & troubleshoot
 
-### Explore specialised engineering
+| Topic | PDFs | What you will find |
+| --- | ---: | --- |
+| [Incident response](incident-response/) | 15 | Incident playbooks, case studies and production failures. |
+| [Site reliability engineering](site-reliability-engineering/) | 6 | SRE practices, on-call work, chaos engineering and reliability. |
+| [Monitoring & observability](monitoring-and-observability/) | 9 | Prometheus, Grafana, ELK, Dynatrace and New Relic. |
+| [Troubleshooting](troubleshooting/) | 5 | Diagnostic playbooks, log reading and common delivery failures. |
+| [Production engineering](production-engineering/) | 2 | Environment takeovers and first on-call guidance. |
+| [Databases](databases/) | 4 | PostgreSQL, MySQL and Redis operations. |
+| [DevSecOps & identity](devsecops-and-identity/) | 3 | Pipeline security, Trivy and DevSecOps practices. |
+| [Cloud security](cloud-security/) | 3 | AWS security labs, controls and misconfigurations. |
 
-Browse [Platform Engineering](./17.%20PLATFORM%20ENGINEERING), [Cloud Security Engineering](./21.%20Cloud%20Security%20Engineering), [AI for DevOps](./16.%20AI%20FOR%20DEVOPS) and [AI Infrastructure & GPU Platform Engineering](./22.%20AI%20Infrastructure%20%26%20GPU%20Platform%20Engineering). Continue into [Advanced Engineering Internals](./23.%20Advanced%20Engineering%20Internals) and [Staff & Principal Engineering](./24.%20Staff%20%26%20Principal%20Engineering) when you want deeper technical and architectural perspectives.
+### Specialist engineering
 
-### Prepare and demonstrate your skills
+| Topic | PDFs | What you will find |
+| --- | ---: | --- |
+| [Platform engineering](platform-engineering/) | 2 | Platform foundations and bootcamp material. |
+| [Infrastructure engineering](infrastructure-engineering/) | 6 | Infrastructure operations, outages, Kafka and RabbitMQ. |
+| [AI for DevOps](ai-for-devops/) | 4 | AI-assisted operations, agents and projects. |
+| [AI & GPU infrastructure](ai-and-gpu-infrastructure/) | 4 | GPU platforms, AI infrastructure and MLOps. |
+| [Engineering internals](engineering-internals/) | 1 | eBPF and deeper systems behaviour. |
+| [Architecture & design](architecture-and-design/) | 4 | System design, production architecture and diagrams. |
+| [Forward-deployed engineering](forward-deployed-engineering/) | 1 | Engineering delivery in customer environments. |
+| [Staff & principal engineering](staff-and-principal-engineering/) | 1 | Staff-level engineering responsibilities and judgement. |
 
-Combine [Career, Interviews & Certifications](./20.%20CAREER%2C%20INTERVIEWS%20%26%20CERTIFICATIONS) with [Real-World Engineering Projects](./25.%20REAL-WORLD%20ENGINEERING%20PROJECTS) and [Engineering Portfolio](./26.%20Engineering%20Portfolio). Practise explaining what you implemented, how you verified it and what you would improve.
+### Career & practical work
 
-These are suggested starting points, not prerequisites for every document. Choose material that fits your experience and purpose.
+| Topic | PDFs | What you will find |
+| --- | ---: | --- |
+| [Career & certifications](career-and-certifications/) | 17 | Roadmaps, interviews, resumes, certification and first-month guidance. |
+| [Hands-on projects](hands-on-projects/) | 9 | DevOps, cloud, Kubernetes and infrastructure builds. |
+| [Engineering portfolio](engineering-portfolio/) | 5 | Home labs, portfolio guidance and project ideas. |
 
-## Make the most of the resources
+## Choose a learning path
 
-1. **Choose a specific goal.** Decide what you want to understand or accomplish before selecting a document.
-2. **Open the relevant topic folder.** Preview a PDF on GitHub where supported, or download it using the file’s download control.
-3. **Read actively.** Note unfamiliar terms, assumptions and questions you need to investigate.
-4. **Practise where appropriate.** Test commands and configurations in an isolated environment. Check versions, permissions and expected effects before running them.
-5. **Explain what you learned.** Connect the material to a practical example and record the evidence behind your conclusions.
+- **New to engineering:** [Linux](linux/) → [Networking](networking/) → [Programming](programming-and-development/) → [Shell scripting](shell-scripting/).
+- **Build and deliver applications:** [Containers](containers/) → [CI/CD](ci-cd/) → [AWS](aws/) or [Azure & Google Cloud](azure-and-google-cloud/) → [Infrastructure as code](infrastructure-as-code/) → [Kubernetes](kubernetes/).
+- **Operate production systems:** [Monitoring](monitoring-and-observability/) → [Troubleshooting](troubleshooting/) → [Incident response](incident-response/) → [SRE](site-reliability-engineering/).
+- **Prepare for a role:** [Career & certifications](career-and-certifications/) → [Hands-on projects](hands-on-projects/) → [Engineering portfolio](engineering-portfolio/).
 
-For tool behaviour, service limits and version-specific details, check the relevant official documentation alongside the resource you are reading.
+These are suggested routes; choose documents that fit your goals and experience. Practise commands in an isolated lab, check version-specific details against official documentation, and record what you tested and learned.
 
-## Support the repository
+## How the library is organized
 
-If the collection helps you, **Star the repository ⭐** to bookmark it and support its visibility. Fork it if you want your own copy to customise. Use GitHub’s **Watch** settings to select notifications; a fork does not automatically receive upstream changes.
+- Topic folders hold publications about a particular technology or practice. Tool-specific interview guides and projects stay with their technology, such as AWS or Kubernetes.
+- General career preparation lives in `career-and-certifications/`; cross-topic builds live in `hands-on-projects/`; portfolio presentation and home-lab guidance live in `engineering-portfolio/`.
+- Incident case studies and response playbooks live in `incident-response/`. General diagnostic guides live in `troubleshooting/`.
+- Infrastructure-as-code publications are grouped into [Terraform & Terragrunt](infrastructure-as-code/terraform-and-terragrunt/), [Ansible](infrastructure-as-code/ansible/) and [Chef](infrastructure-as-code/chef/).
 
-Found an unclear explanation, a broken link, or an outdated example? Open an issue with the document name, affected section and a clear description. Include a public technical source when suggesting a correction. Contributions should respect source authors and exclude credentials or private operational information.
+If you followed an older numbered-folder link, use the [catalog](CATALOG.md) to find the same PDF by its original filename.
 
-## About VERIQTA Press
+## Contribute
 
-VERIQTA Press brings VERIQTA’s engineering publications together under one name. The free resources in this repository sit alongside its broader publishing work, including books and longer-form engineering material.
+Found a broken link, outdated example or unclear explanation? [Open an issue](https://github.com/veriqta/VERIQTA-PRESS/issues) with the document name, affected section and suggested correction. Include a public technical source where relevant.
 
-VERIQTA also develops training in DevOps, cloud, SRE, platform engineering and related disciplines. Explore the wider brand and follow its learning resources through the links below.
+For a contribution, fork the repository, create a branch, place the document in the closest topic folder, and update that folder's README, the complete catalog and root counts. Check that relative links open correctly. Preserve existing PDFs when reorganizing; keep credentials, private data and generated artifacts out of contributions. Respect authorship and applicable licensing.
 
-- [Explore VERIQTA](https://veriqta.com)
-- [Browse VERIQTA WORLD repositories](https://github.com/VERIQTA-WORLD)
-- [Follow @veriqta](https://www.instagram.com/veriqta/)
-- [Follow @veriqta_academy](https://www.instagram.com/veriqta_academy/)
+Star the repository to bookmark it. Use GitHub's Watch settings to choose update notifications; forks do not automatically receive upstream changes.
+
+## About VERIQTA
+
+VERIQTA Press brings VERIQTA's engineering publications and learning resources together. Explore more through the [official website](https://veriqta.com/), [VERIQTA WORLD repositories](https://github.com/VERIQTA-WORLD), [@veriqta](https://www.instagram.com/veriqta/) and [@veriqta_academy](https://www.instagram.com/veriqta_academy/).
 
 ## Licence and attribution
 
-Refer to the repository’s [LICENSE](LICENSE) for its licensing terms. Third-party materials may carry separate licences or usage conditions; check the applicable document and source before reusing or redistributing them. Inclusion does not imply affiliation with or endorsement by a technology vendor.
+See [LICENSE](LICENSE) for repository licensing terms. Third-party materials may have separate conditions; check the document and source before reuse or redistribution. Inclusion does not imply affiliation with a technology vendor.
